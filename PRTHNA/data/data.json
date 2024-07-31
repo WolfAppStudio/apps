@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Har Har Mahadev",
+    "image": "mahadev",
+    "items": [
+      {
+        "id": 11,
+        "type": "Siva Songs",
+        "subitems": [
+          {
+            "id": 1101,
+            "title": "Shiv Tandav",
+            "artist": "artist - 1",
+            "thumbnail": "shiv_tandav.jpg",
+            "trackURL": "shiv_tandav.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jay Hanuman",
+    "image": "hanuman",
+    "items": [
+      {
+        "id": 21,
+        "type": "Chalisa & Ashtak",
+        "subitems": [
+          {
+            "id": 2101,
+            "title": "Hanuman Chalisa",
+            "artist": "artist - 12",
+            "thumbnail": "hanuman-ashtak.jpg",
+            "trackURL": "hanuman_ashtak.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Amba Maa",
+    "image": "ambema",
+    "items": [
+      {
+        "id": 31,
+        "type": "Arti",
+        "subitems": [
+          {
+            "id": 3101,
+            "title": "Ambema Arti",
+            "artist": "artist - 14",
+            "thumbnail": "ambema_arti.jpg",
+            "trackURL": "ambema_arti.mp3"
+          }
+        ]
+      }
+    ]
+  }
+]
