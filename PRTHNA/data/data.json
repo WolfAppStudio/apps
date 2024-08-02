@@ -50,6 +50,13 @@
           },
           {
             "id": 2202,
+            "title": "Hanuman Chalisa Fast",
+            "artist": "Shankar Mahadevan",
+            "thumbnail": "hanuman_chalisa_fast.jpg",
+            "trackURL": "hanuman_chalisa_fast.mp3"
+          },
+          {
+            "id": 2203,
             "title": "Sankat Mochan Hanuman Ashtak",
             "artist": "Hanuman Ashtak, Hariharan",
             "thumbnail": "hanuman_ashtak.jpg",
