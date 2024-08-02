@@ -6,7 +6,20 @@
     "items": [
       {
         "id": 11,
-        "type": "Siva Songs",
+        "type": "Arti",
+        "subitems": [
+          {
+            "id": 1101,
+            "title": "Om Jai Shiv Omkara | Lord Shiva Aarti",
+            "artist": "Anuradha Paudwal",
+            "thumbnail": "shiv_tandav.jpg",
+            "trackURL": "shiv_tandav.mp3"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "type": "Tandav",
         "subitems": [
           {
             "id": 1101,
@@ -14,6 +27,26 @@
             "artist": "Times Music Spiritual",
             "thumbnail": "shiv_tandav.jpg",
             "trackURL": "shiv_tandav.mp3"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "Stuti",
+        "subitems": [
+          {
+            "id": 1101,
+            "title": "Shiv Stuti",
+            "artist": "“Sonu Nigam, Ashutosh Shashank Shekhar”",
+            "thumbnail": "shambhu_charne_padi.jpg",
+            "trackURL": "shambhu_charne_padi.mp3"
+          },
+          {
+            "id": 1101,
+            "title": "Shambhu Charne Padi | Gujrati",
+            "artist": "Hemant Chauhan",
+            "thumbnail": "shambhu_charne_padi.jpg",
+            "trackURL": "shambhu_charne_padi.mp3"
           }
         ]
       }
