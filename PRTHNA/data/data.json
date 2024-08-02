@@ -37,7 +37,7 @@
           {
             "id": 1101,
             "title": "Shiv Stuti",
-            "artist": "“Sonu Nigam, Ashutosh Shashank Shekhar”",
+            "artist": "Sonu Nigam, Ashutosh Shashank Shekhar",
             "thumbnail": "shambhu_charne_padi.jpg",
             "trackURL": "shambhu_charne_padi.mp3"
           },
@@ -47,6 +47,26 @@
             "artist": "Hemant Chauhan",
             "thumbnail": "shambhu_charne_padi.jpg",
             "trackURL": "shambhu_charne_padi.mp3"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "type": "Chalisa",
+        "subitems": [
+          {
+            "id": 1101,
+            "title": "Shiva Chalisa",
+            "artist": "Amruta Natu, Isha Music",
+            "thumbnail": "shiva_chalisa.jpg",
+            "trackURL": "shiva_chalisa.mp3"
+          },
+          {
+            "id": 1101,
+            "title": "Shiv Chalisa Fast",
+            "artist": "Manjeera ganguly, Kuldeep shukla",
+            "thumbnail": "shiva_chalisa_fast.jpg",
+            "trackURL": "shiva_chalisa_fast.mp3"
           }
         ]
       }
@@ -123,7 +143,7 @@
         "subitems": [
           {
             "id": 3101,
-            "title": "Jay Aadhyashakti Aarti GUJARTI",
+            "title": "Jay Aadhyashakti Aarti | Gujrati",
             "artist": "Hemant Chauhan, Bhakti Sagar",
             "thumbnail": "ambema_arti.jpg",
             "trackURL": "ambema_arti.mp3"
