@@ -26,14 +26,47 @@
     "items": [
       {
         "id": 21,
-        "type": "Chalisa & Ashtak",
+        "type": "Arti",
         "subitems": [
           {
             "id": 2101,
+            "title": "Hanuman Aarti, Aarti Keejai Hanuman Lala Ki",
+            "artist": "Gulshan Kumar, Lalit Sen, Chander",
+            "thumbnail": "hanuman_arti.jpg",
+            "trackURL": "hanuman_arti.mp3"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "type": "Chalisa & Ashtak",
+        "subitems": [
+          {
+            "id": 2201,
             "title": "Shree Hanuman Chalisa",
             "artist": "Gulshan Kumar, Hariharan",
             "thumbnail": "hanuman_chalisa.jpg",
             "trackURL": "hanuman_chalisa.mp3"
+          },
+          {
+            "id": 2202,
+            "title": "Sankat Mochan Hanuman Ashtak",
+            "artist": "Hanuman Ashtak, Hariharan",
+            "thumbnail": "hanuman_ashtak.jpg",
+            "trackURL": "hanuman_ashtak.mp3"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "type": "Bhajan",
+        "subitems": [
+          {
+            "id": 2301,
+            "title": "Bajrang Baan",
+            "artist": "Hariharan, Lalit Sen, Chander",
+            "thumbnail": "hanuman_arti.jpg",
+            "trackURL": "hanuman_arti.mp3"
           }
         ]
       }
