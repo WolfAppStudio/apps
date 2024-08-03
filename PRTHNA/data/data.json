@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Har Har Mahadev",
-    "image": "mahadev",
+    "title": "Ganesh",
+    "image": "ganesh",
     "items": [
       {
         "id": 11,
@@ -10,63 +10,37 @@
         "subitems": [
           {
             "id": 1101,
-            "title": "Om Jai Shiv Omkara | Lord Shiva Aarti",
+            "title": "Jai Ganesh Deva Aarti | Hindi",
             "artist": "Anuradha Paudwal",
-            "thumbnail": "shiv_tandav.jpg",
-            "trackURL": "shiv_tandav.mp3"
+            "thumbnail": "ambema_arti.jpg",
+            "trackURL": "ambema_arti.mp3"
+          },
+          {
+            "id": 1102,
+            "title": "Ganesh Aarti Shendoor Lal Chadhayo | Hindi",
+            "artist": "Vaastav (The Reality), Ravindra Saathe",
+            "thumbnail": "ganesh_aarti_shendoor_lal_chadhayo.jpg",
+            "trackURL": "ganesh_aarti_shendoor_lal_chadhayo.mp3"
+          },
+          {
+            "id": 1103,
+            "title": "Sukh Karta Dukh Harta, Ganpati Aarti | Marathi",
+            "artist": "Sukhkarta Dukhharta",
+            "thumbnail": "sukh_karta_dukh_harta.jpg",
+            "trackURL": "sukh_karta_dukh_harta.mp3"
           }
         ]
       },
       {
         "id": 12,
-        "type": "Tandav",
+        "type": "Manrta",
         "subitems": [
           {
             "id": 1201,
-            "title": "Shiv Tandav",
-            "artist": "Times Music Spiritual",
-            "thumbnail": "shiv_tandav.jpg",
-            "trackURL": "shiv_tandav.mp3"
-          }
-        ]
-      },
-      {
-        "id": 13,
-        "type": "Stuti",
-        "subitems": [
-          {
-            "id": 1301,
-            "title": "Shiv Stuti",
-            "artist": "Sonu Nigam, Ashutosh Shashank Shekhar",
-            "thumbnail": "shambhu_charne_padi.jpg",
-            "trackURL": "shambhu_charne_padi.mp3"
-          },
-          {
-            "id": 1302,
-            "title": "Shambhu Charne Padi | Gujrati",
-            "artist": "Hemant Chauhan",
-            "thumbnail": "shambhu_charne_padi.jpg",
-            "trackURL": "shambhu_charne_padi.mp3"
-          }
-        ]
-      },
-      {
-        "id": 14,
-        "type": "Chalisa",
-        "subitems": [
-          {
-            "id": 1401,
-            "title": "Shiva Chalisa",
-            "artist": "Amruta Natu, Isha Music",
-            "thumbnail": "shiva_chalisa.jpg",
-            "trackURL": "shiva_chalisa.mp3"
-          },
-          {
-            "id": 1402,
-            "title": "Shiv Chalisa Fast",
-            "artist": "Manjeera ganguly, Kuldeep shukla",
-            "thumbnail": "shiva_chalisa_fast.jpg",
-            "trackURL": "shiva_chalisa_fast.mp3"
+            "title": "Om Gan Ganpataye Namo Namah Ganesh Mantra By Suresh Wadkar",
+            "artist": "Suresh Wadkar",
+            "thumbnail": "om_gan_ganpataye_namo_namah.jpg",
+            "trackURL": "om_gan_ganpataye_namo_namah.mp3"
           }
         ]
       }
@@ -134,8 +108,8 @@
   },
   {
     "id": 3,
-    "title": "Amba Maa",
-    "image": "ambema",
+    "title": "Har Har Mahadev",
+    "image": "mahadev",
     "items": [
       {
         "id": 31,
@@ -143,37 +117,23 @@
         "subitems": [
           {
             "id": 3101,
-            "title": "Jay Aadhyashakti Aarti | Gujrati",
-            "artist": "Hemant Chauhan, Bhakti Sagar",
-            "thumbnail": "ambema_arti.jpg",
-            "trackURL": "ambema_arti.mp3"
-          },
-          {
-            "id": 3102,
-            "title": "Jay Ambe Gauri Aarti | Hindi",
-            "artist": "Hemant Chauhan, Anuradha Paudwal, Rohini Patel, Rajdeep Barot, Vanita Barot, Darshna Gandhi",
-            "thumbnail": "ambema_gauri_aarti.jpg",
-            "trackURL": "ambema_gauri_aarti.mp3"
+            "title": "Om Jai Shiv Omkara | Lord Shiva Aarti",
+            "artist": "Anuradha Paudwal",
+            "thumbnail": "shiv_tandav.jpg",
+            "trackURL": "shiv_tandav.mp3"
           }
         ]
       },
       {
         "id": 32,
-        "type": "Thal",
+        "type": "Tandav",
         "subitems": [
           {
             "id": 3201,
-            "title": "Aarasur Ambe Maa No Thal | Gujrati",
-            "artist": "Jaya Mistry",
-            "thumbnail": "ambe_maa_no_thal.jpg",
-            "trackURL": "ambe_maa_no_thal.mp3"
-          },
-          {
-            "id": 3201,
-            "title": "Aarasur Ambe Maa No Thal | Gujrati",
-            "artist": "Bhaskar Shukla, Vidita Shukla",
-            "thumbnail": "ambe_maa_jamva_vehl_avo_re.jpg",
-            "trackURL": "ambe_maa_jamva_vehl_avo_re.mp3"
+            "title": "Shiv Tandav",
+            "artist": "Times Music Spiritual",
+            "thumbnail": "shiv_tandav.jpg",
+            "trackURL": "shiv_tandav.mp3"
           }
         ]
       },
@@ -182,7 +142,94 @@
         "type": "Stuti",
         "subitems": [
           {
-            "id": 3201,
+            "id": 3301,
+            "title": "Shiv Stuti",
+            "artist": "Sonu Nigam, Ashutosh Shashank Shekhar",
+            "thumbnail": "shambhu_charne_padi.jpg",
+            "trackURL": "shambhu_charne_padi.mp3"
+          },
+          {
+            "id": 3302,
+            "title": "Shambhu Charne Padi | Gujrati",
+            "artist": "Hemant Chauhan",
+            "thumbnail": "shambhu_charne_padi.jpg",
+            "trackURL": "shambhu_charne_padi.mp3"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "type": "Chalisa",
+        "subitems": [
+          {
+            "id": 3401,
+            "title": "Shiva Chalisa",
+            "artist": "Amruta Natu, Isha Music",
+            "thumbnail": "shiva_chalisa.jpg",
+            "trackURL": "shiva_chalisa.mp3"
+          },
+          {
+            "id": 3402,
+            "title": "Shiv Chalisa Fast",
+            "artist": "Manjeera ganguly, Kuldeep shukla",
+            "thumbnail": "shiva_chalisa_fast.jpg",
+            "trackURL": "shiva_chalisa_fast.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Amba Maa",
+    "image": "ambema",
+    "items": [
+      {
+        "id": 41,
+        "type": "Arti",
+        "subitems": [
+          {
+            "id": 4101,
+            "title": "Jay Aadhyashakti Aarti | Gujrati",
+            "artist": "Hemant Chauhan, Bhakti Sagar",
+            "thumbnail": "ambema_arti.jpg",
+            "trackURL": "ambema_arti.mp3"
+          },
+          {
+            "id": 4102,
+            "title": "Jay Ambe Gauri Aarti | Hindi",
+            "artist": "Hemant Chauhan, Anuradha Paudwal, Rohini Patel, Rajdeep Barot, Vanita Barot, Darshna Gandhi",
+            "thumbnail": "ambema_gauri_aarti.jpg",
+            "trackURL": "ambema_gauri_aarti.mp3"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "type": "Thal",
+        "subitems": [
+          {
+            "id": 4201,
+            "title": "Aarasur Ambe Maa No Thal | Gujrati",
+            "artist": "Jaya Mistry",
+            "thumbnail": "ambe_maa_no_thal.jpg",
+            "trackURL": "ambe_maa_no_thal.mp3"
+          },
+          {
+            "id": 4201,
+            "title": "Ambe Maa No Thal | Gujrati",
+            "artist": "Bhaskar Shukla, Vidita Shukla",
+            "thumbnail": "ambe_maa_jamva_vehl_avo_re.jpg",
+            "trackURL": "ambe_maa_jamva_vehl_avo_re.mp3"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "type": "Stuti",
+        "subitems": [
+          {
+            "id": 4301,
             "title": "Vishvambhari Stuti",
             "artist": "Kinjal Dave, KD Digital",
             "thumbnail": "ambe_maa_jamva_vehl_avo_re.jpg",
