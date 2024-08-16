@@ -33,7 +33,7 @@
             "umbrella-alphabet",
             "van-alphabet",
             "watch-alphabet",
-            "x-mas-tree-alphabet",
+            "x-mas tree-alphabet",
             "yak-alphabet",
             "zebra-alphabet"
         ]
@@ -49,15 +49,15 @@
         ],
         "imageName": "123",
         "items": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
+            "1-numbers",
+            "2-numbers",
+            "3-numbers",
+            "4-numbers",
+            "5-numbers",
+            "6-numbers",
+            "7-numbers",
+            "8-numbers",
+            "9-numbers"
         ]
     },
     {
@@ -82,6 +82,117 @@
             "Black",
             "White",
             "Gray"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Shapes",
+        "type": "photos",
+        "color": [
+            98.0,
+            167.0,
+            246.0
+        ],
+        "imageName": "shapes",
+        "items": [
+            "circle-shapes",
+            "square-shapes",
+            "triangle-shapes",
+            "rectangle-shapes",
+            "oval-shapes",
+            "semicircle-shapes",
+            "pentagon-shapes",
+            "hexagon-shapes",
+            "diamond-shapes",
+            "star-shapes"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Body Parts",
+        "type": "photos",
+        "color": [
+            78.0,
+            107.0,
+            67.0
+        ],
+        "imageName": "body",
+        "items": [
+            "head-body",
+            "eyes-body",
+            "ears-body",
+            "nose-body",
+            "lips-body",
+            "theeth-body",
+            "tounge-body",
+            "mouth-body",
+            "arms-body",
+            "hands-body",
+            "legs-body",
+            "feet-body"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Animals",
+        "type": "photoSounds",
+        "color": [
+            218.0,
+            128.0,
+            48.0
+        ],
+        "imageName": "animals",
+        "items": [ ]
+    },
+    {
+        "id": 6,
+        "title": "Birds",
+        "type": "photoSounds",
+        "color": [
+            11.0,
+            32.0,
+            108.0
+        ],
+        "imageName": "birds",
+        "items": []
+    },
+    {
+        "id": 7,
+        "title": "Vehicles",
+        "type": "photos",
+        "color": [
+            92.0,
+            21.0,
+            11.0
+        ],
+        "imageName": "vehicles",
+        "items": []
+    },
+    {
+        "id": 8,
+        "title": "Occupations",
+        "type": "photos",
+        "color": [
+            30.0,
+            50.0,
+            88.0
+        ],
+        "imageName": "occupations",
+        "items": [
+            "painter-occupations",
+            "barber-occupations",
+            "carpenter-occupations",
+            "dentist-occupations",
+            "doctor-occupations",
+            "electrician-occupations",
+            "firefighter-occupations",
+            "engineer-occupations",
+            "farmer-occupations",
+            "lawyer-occupations",
+            "photographer-occupations",
+            "pilot-occupations",
+            "police-occupations",
+            "teacher-occupations"
         ]
     }
 ]
