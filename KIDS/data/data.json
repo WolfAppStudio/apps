@@ -83,5 +83,186 @@
             "White",
             "Gray"
         ]
+    },
+    {
+        "id": 3,
+        "title": "Shapes",
+        "type": "photos",
+        "color": [
+            98.0,
+            167.0,
+            246.0
+        ],
+        "imageName": "shapes",
+        "items": [
+            "circle",
+            "square",
+            "triangle",
+            "rectangle",
+            "oval",
+            "semicircle",
+            "pentagon",
+            "hexagon",
+            "diamond",
+            "star"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Body Parts",
+        "type": "photos",
+        "color": [
+            78.0,
+            107.0,
+            67.0
+        ],
+        "imageName": "body-parts",
+        "items": [
+            "head",
+            "eyes",
+            "ears",
+            "nose",
+            "lips",
+            "theeth",
+            "tounge",
+            "mouth",
+            "arms",
+            "hands",
+            "legs",
+            "feet"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Animals",
+        "type": "photoSounds",
+        "color": [
+            218.0,
+            128.0,
+            48.0
+        ],
+        "imageName": "animals",
+        "items": [
+            "buffalo",
+            "camel",
+            "cat",
+            "chimpanzee",
+            "cow",
+            "deer",
+            "dog",
+            "dolphin",
+            "donkey",
+            "elephant",
+            "fox",
+            "frog",
+            "gecko",
+            "giraffe",
+            "goat",
+            "gorilla",
+            "hippopotamus",
+            "horse",
+            "kangaroo",
+            "koala",
+            "leopard",
+            "lion",
+            "monkey",
+            "mouse",
+            "panda",
+            "panther",
+            "rabbit",
+            "rhino",
+            "squirrel",
+            "tiger",
+            "zebra"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Birds",
+        "type": "photoSounds",
+        "color": [
+            11.0,
+            32.0,
+            108.0
+        ],
+        "imageName": "birds",
+        "items": [
+            "bee",
+            "blackbird",
+            "butterfly",
+            "canary",
+            "chameleon",
+            "cockatiel",
+            "Contents",
+            "crow",
+            "dragonfly",
+            "duck",
+            "eagle",
+            "fly",
+            "hen",
+            "kite",
+            "mantis",
+            "mosquito",
+            "owl",
+            "parrot",
+            "peacock",
+            "penguin",
+            "pigeon",
+            "robin",
+            "rooster",
+            "sparrow",
+            "wasp",
+            "woodpecker"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Vehicles",
+        "type": "photos",
+        "color": [
+            92.0,
+            21.0,
+            11.0
+        ],
+        "imageName": "vehicles",
+        "items": [
+            "Car",
+            "Truck",
+            "Bus",
+            "Bicycle",
+            "Motorcycle",
+            "Train",
+            "Airplane",
+            "Boat",
+            "Scooter",
+            "Van"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Occupations",
+        "type": "photos",
+        "color": [
+            30.0,
+            50.0,
+            88.0
+        ],
+        "imageName": "occupations",
+        "items": [
+            "painter",
+            "barber",
+            "carpenter",
+            "dentist",
+            "doctor",
+            "electrician",
+            "firefighter",
+            "engineer",
+            "farmer",
+            "lawyer",
+            "photographer",
+            "pilot",
+            "police",
+            "teacher"
+        ]
     }
 ]
