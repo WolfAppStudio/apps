@@ -33,7 +33,7 @@
             "umbrella-alphabet",
             "van-alphabet",
             "watch-alphabet",
-            "x-mas-tree-alphabet",
+            "x-mas tree-alphabet",
             "yak-alphabet",
             "zebra-alphabet"
         ]
@@ -49,15 +49,15 @@
         ],
         "imageName": "123",
         "items": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9"
+            "1-numbers",
+            "2-numbers",
+            "3-numbers",
+            "4-numbers",
+            "5-numbers",
+            "6-numbers",
+            "7-numbers",
+            "8-numbers",
+            "9-numbers"
         ]
     },
     {
@@ -95,16 +95,16 @@
         ],
         "imageName": "shapes",
         "items": [
-            "circle",
-            "square",
-            "triangle",
-            "rectangle",
-            "oval",
-            "semicircle",
-            "pentagon",
-            "hexagon",
-            "diamond",
-            "star"
+            "circle-shapes",
+            "square-shapes",
+            "triangle-shapes",
+            "rectangle-shapes",
+            "oval-shapes",
+            "semicircle-shapes",
+            "pentagon-shapes",
+            "hexagon-shapes",
+            "diamond-shapes",
+            "star-shapes"
         ]
     },
     {
@@ -116,20 +116,20 @@
             107.0,
             67.0
         ],
-        "imageName": "body-parts",
+        "imageName": "body",
         "items": [
-            "head",
-            "eyes",
-            "ears",
-            "nose",
-            "lips",
-            "theeth",
-            "tounge",
-            "mouth",
-            "arms",
-            "hands",
-            "legs",
-            "feet"
+            "head-body",
+            "eyes-body",
+            "ears-body",
+            "nose-body",
+            "lips-body",
+            "theeth-body",
+            "tounge-body",
+            "mouth-body",
+            "arms-body",
+            "hands-body",
+            "legs-body",
+            "feet-body"
         ]
     },
     {
@@ -142,39 +142,7 @@
             48.0
         ],
         "imageName": "animals",
-        "items": [
-            "buffalo",
-            "camel",
-            "cat",
-            "chimpanzee",
-            "cow",
-            "deer",
-            "dog",
-            "dolphin",
-            "donkey",
-            "elephant",
-            "fox",
-            "frog",
-            "gecko",
-            "giraffe",
-            "goat",
-            "gorilla",
-            "hippopotamus",
-            "horse",
-            "kangaroo",
-            "koala",
-            "leopard",
-            "lion",
-            "monkey",
-            "mouse",
-            "panda",
-            "panther",
-            "rabbit",
-            "rhino",
-            "squirrel",
-            "tiger",
-            "zebra"
-        ]
+        "items": [ ]
     },
     {
         "id": 6,
@@ -186,34 +154,7 @@
             108.0
         ],
         "imageName": "birds",
-        "items": [
-            "bee",
-            "blackbird",
-            "butterfly",
-            "canary",
-            "chameleon",
-            "cockatiel",
-            "Contents",
-            "crow",
-            "dragonfly",
-            "duck",
-            "eagle",
-            "fly",
-            "hen",
-            "kite",
-            "mantis",
-            "mosquito",
-            "owl",
-            "parrot",
-            "peacock",
-            "penguin",
-            "pigeon",
-            "robin",
-            "rooster",
-            "sparrow",
-            "wasp",
-            "woodpecker"
-        ]
+        "items": []
     },
     {
         "id": 7,
@@ -225,18 +166,7 @@
             11.0
         ],
         "imageName": "vehicles",
-        "items": [
-            "Car",
-            "Truck",
-            "Bus",
-            "Bicycle",
-            "Motorcycle",
-            "Train",
-            "Airplane",
-            "Boat",
-            "Scooter",
-            "Van"
-        ]
+        "items": []
     },
     {
         "id": 8,
@@ -249,20 +179,20 @@
         ],
         "imageName": "occupations",
         "items": [
-            "painter",
-            "barber",
-            "carpenter",
-            "dentist",
-            "doctor",
-            "electrician",
-            "firefighter",
-            "engineer",
-            "farmer",
-            "lawyer",
-            "photographer",
-            "pilot",
-            "police",
-            "teacher"
+            "painter-occupations",
+            "barber-occupations",
+            "carpenter-occupations",
+            "dentist-occupations",
+            "doctor-occupations",
+            "electrician-occupations",
+            "firefighter-occupations",
+            "engineer-occupations",
+            "farmer-occupations",
+            "lawyer-occupations",
+            "photographer-occupations",
+            "pilot-occupations",
+            "police-occupations",
+            "teacher-occupations"
         ]
     }
 ]
