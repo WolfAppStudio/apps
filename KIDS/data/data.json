@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "title": "Alphabets",
+        "type": "alphabets",
+        "color": [
+            77.0,
+            169.0,
+            121.0
+        ],
+        "imageName": "abcd",
+        "items": [
+            "apple-alphabet",
+            "ball-alphabet",
+            "cat-alphabet",
+            "dog-alphabet",
+            "elephant-alphabet",
+            "fish-alphabet",
+            "grapes-alphabet",
+            "horse-alphabet",
+            "icecream-alphabet",
+            "jug-alphabet",
+            "kite-alphabet",
+            "lion-alphabet",
+            "monkey-alphabet",
+            "nest-alphabet",
+            "orange-alphabet",
+            "parrot-alphabet",
+            "queen-alphabet",
+            "rose-alphabet",
+            "sun-alphabet",
+            "tiger-alphabet",
+            "umbrella-alphabet",
+            "van-alphabet",
+            "watch-alphabet",
+            "x-mas-tree-alphabet",
+            "yak-alphabet",
+            "zebra-alphabet"
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Numbers",
+        "type": "numbers",
+        "color": [
+            235.0,
+            77.0,
+            59.0
+        ],
+        "imageName": "123",
+        "items": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Colors",
+        "type": "colors",
+        "color": [
+            128.0,
+            181.0,
+            67.0
+        ],
+        "imageName": "colors",
+        "items": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Orange",
+            "Purple",
+            "Pink",
+            "Brown",
+            "Black",
+            "White",
+            "Gray"
+        ]
+    }
+]
