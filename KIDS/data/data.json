@@ -8,7 +8,7 @@
             169.0,
             121.0
         ],
-        "imageName": "alphabet",
+        "imageURL": "alphabet",
         "items": [
             {
                 "name": "Apple",
@@ -125,7 +125,7 @@
             77.0,
             59.0
         ],
-        "imageName": "numbers",
+        "imageName": "imageURL",
         "items": [
             {
                 "name": "1",
@@ -174,7 +174,7 @@
             181.0,
             67.0
         ],
-        "imageName": "colors",
+        "imageName": "imageURL",
         "items": [
             {
                 "name": "Red",
@@ -231,7 +231,7 @@
             167.0,
             246.0
         ],
-        "imageName": "shapes",
+        "imageURL": "shapes",
         "items": [
             {
                 "name": "Circle",
@@ -284,7 +284,7 @@
             107.0,
             67.0
         ],
-        "imageName": "body",
+        "imageURL": "body",
         "items": [
             {
                 "name": "Head",
@@ -345,7 +345,7 @@
             128.0,
             48.0
         ],
-        "imageName": "animals",
+        "imageURL": "animals",
         "items": []
     },
     {
@@ -357,7 +357,7 @@
             32.0,
             108.0
         ],
-        "imageName": "birds",
+        "imageURL": "birds",
         "items": []
     },
     {
@@ -369,7 +369,7 @@
             21.0,
             11.0
         ],
-        "imageName": "vehicles",
+        "imageURL": "vehicles",
         "items": []
     },
     {
@@ -381,7 +381,7 @@
             50.0,
             88.0
         ],
-        "imageName": "occupations",
+        "imageURL": "occupations",
         "items": [
             {
                 "name": "Painter",
