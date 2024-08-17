@@ -12,39 +12,39 @@
         "items": [
             {
                 "name": "Apple",
-                "fileName": "alphabet-apple.svg"
+                "fileName": "alphabet-apple.png"
             },
             {
                 "name": "Ball",
-                "fileName": "alphabet-ball.svg"
+                "fileName": "alphabet-ball.png"
             },
             {
                 "name": "Cat",
-                "fileName": "alphabet-cat.svg"
+                "fileName": "alphabet-cat.png"
             },
             {
                 "name": "Dog",
-                "fileName": "alphabet-dog.svg"
+                "fileName": "alphabet-dog.png"
             },
             {
                 "name": "Elephant",
-                "fileName": "alphabet-elephant.svg"
+                "fileName": "alphabet-elephant.png"
             },
             {
                 "name": "Fish",
-                "fileName": "alphabet-fish.svg"
+                "fileName": "alphabet-fish.png"
             },
             {
                 "name": "Grapes",
-                "fileName": "alphabet-grapes.svg"
+                "fileName": "alphabet-grapes.png"
             },
             {
                 "name": "Horse",
-                "fileName": "alphabet-horse.svg"
+                "fileName": "alphabet-horse.png"
             },
             {
                 "name": "Ice Cream",
-                "fileName": "alphabet-icecream.svg"
+                "fileName": "alphabet-icecream.png"
             },
             {
                 "name": "Jug",
@@ -60,27 +60,27 @@
             },
             {
                 "name": "Monkey",
-                "fileName": "alphabet-monkey.svg"
+                "fileName": "alphabet-monkey.png"
             },
             {
                 "name": "Nest",
-                "fileName": "alphabet-nest.svg"
+                "fileName": "alphabet-nest.png"
             },
             {
                 "name": "Orange",
-                "fileName": "alphabet-orange.svg"
+                "fileName": "alphabet-orange.png"
             },
             {
                 "name": "Parrot",
-                "fileName": "alphabet-parrot.svg"
+                "fileName": "alphabet-parrot.png"
             },
             {
                 "name": "Queen",
-                "fileName": "alphabet-queen.svg"
+                "fileName": "alphabet-queen.png"
             },
             {
                 "name": "Rose",
-                "fileName": "alphabet-rose.svg"
+                "fileName": "alphabet-rose.png"
             },
             {
                 "name": "Sun",
@@ -88,31 +88,31 @@
             },
             {
                 "name": "Tiger",
-                "fileName": "alphabet-tiger.svg"
+                "fileName": "alphabet-tiger.png"
             },
             {
                 "name": "Umbrella",
-                "fileName": "alphabet-umbrella.svg"
+                "fileName": "alphabet-umbrella.png"
             },
             {
                 "name": "Van",
-                "fileName": "alphabet-van.svg"
+                "fileName": "alphabet-van.png"
             },
             {
                 "name": "Watch",
-                "fileName": "alphabet-watch.svg"
+                "fileName": "alphabet-watch.png"
             },
             {
                 "name": "Xmas Tree",
-                "fileName": "alphabet-x-mas tree.svg"
+                "fileName": "alphabet-x-mas tree.png"
             },
             {
                 "name": "Yak",
-                "fileName": "alphabet-yak.svg"
+                "fileName": "alphabet-yak.png"
             },
             {
                 "name": "Zebra",
-                "fileName": "alphabet-zebra.svg"
+                "fileName": "alphabet-zebra.png"
             }
         ]
     },
