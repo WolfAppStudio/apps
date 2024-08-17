@@ -8,34 +8,112 @@
             169.0,
             121.0
         ],
-        "imageName": "abcd",
+        "imageName": "alphabet",
         "items": [
-            "apple-alphabet",
-            "ball-alphabet",
-            "cat-alphabet",
-            "dog-alphabet",
-            "elephant-alphabet",
-            "fish-alphabet",
-            "grapes-alphabet",
-            "horse-alphabet",
-            "icecream-alphabet",
-            "jug-alphabet",
-            "kite-alphabet",
-            "lion-alphabet",
-            "monkey-alphabet",
-            "nest-alphabet",
-            "orange-alphabet",
-            "parrot-alphabet",
-            "queen-alphabet",
-            "rose-alphabet",
-            "sun-alphabet",
-            "tiger-alphabet",
-            "umbrella-alphabet",
-            "van-alphabet",
-            "watch-alphabet",
-            "x-mas tree-alphabet",
-            "yak-alphabet",
-            "zebra-alphabet"
+            {
+                "name": "Apple",
+                "fileName": "alphabet-apple.svg"
+            },
+            {
+                "name": "Ball",
+                "fileName": "alphabet-ball.svg"
+            },
+            {
+                "name": "Cat",
+                "fileName": "alphabet-cat.svg"
+            },
+            {
+                "name": "Dog",
+                "fileName": "alphabet-dog.svg"
+            },
+            {
+                "name": "Elephant",
+                "fileName": "alphabet-elephant.svg"
+            },
+            {
+                "name": "Fish",
+                "fileName": "alphabet-fish.svg"
+            },
+            {
+                "name": "Grapes",
+                "fileName": "alphabet-grapes.svg"
+            },
+            {
+                "name": "Horse",
+                "fileName": "alphabet-horse.svg"
+            },
+            {
+                "name": "Ice Cream",
+                "fileName": "alphabet-icecream.svg"
+            },
+            {
+                "name": "Jug",
+                "fileName": "alphabet-jug.png"
+            },
+            {
+                "name": "Kite",
+                "fileName": "alphabet-kite.png"
+            },
+            {
+                "name": "Lion",
+                "fileName": "alphabet-lion.png"
+            },
+            {
+                "name": "Monkey",
+                "fileName": "alphabet-monkey.svg"
+            },
+            {
+                "name": "Nest",
+                "fileName": "alphabet-nest.svg"
+            },
+            {
+                "name": "Orange",
+                "fileName": "alphabet-orange.svg"
+            },
+            {
+                "name": "Parrot",
+                "fileName": "alphabet-parrot.svg"
+            },
+            {
+                "name": "Queen",
+                "fileName": "alphabet-queen.svg"
+            },
+            {
+                "name": "Rose",
+                "fileName": "alphabet-rose.svg"
+            },
+            {
+                "name": "Sun",
+                "fileName": "alphabet-sun.png"
+            },
+            {
+                "name": "Tiger",
+                "fileName": "alphabet-tiger.svg"
+            },
+            {
+                "name": "Umbrella",
+                "fileName": "alphabet-umbrella.svg"
+            },
+            {
+                "name": "Van",
+                "fileName": "alphabet-van.svg"
+            },
+            {
+                "name": "Watch",
+                "fileName": "alphabet-watch.svg"
+            },
+            {
+                "name": "Xmas Tree",
+                "fileName": "alphabet-x-mas tree.svg"
+            },
+            {
+                "name": "Yak",
+                "fileName": "alphabet-yak.svg"
+            },
+            {
+                "name": "Zebra",
+                "fileName": "alphabet-zebra.svg"
+            }
         ]
     },
     {
@@ -47,17 +125,44 @@
             77.0,
             59.0
         ],
-        "imageName": "123",
+        "imageName": "numbers",
         "items": [
-            "1-numbers",
-            "2-numbers",
-            "3-numbers",
-            "4-numbers",
-            "5-numbers",
-            "6-numbers",
-            "7-numbers",
-            "8-numbers",
-            "9-numbers"
+            {
+                "name": "1",
+                "fileName": "numbers-1.svg"
+            },
+            {
+                "name": "2",
+                "fileName": "numbers-2.svg"
+            },
+            {
+                "name": "3",
+                "fileName": "numbers-3.svg"
+            },
+            {
+                "name": "4",
+                "fileName": "numbers-4.png"
+            },
+            {
+                "name": "5",
+                "fileName": "numbers-5.png"
+            },
+            {
+                "name": "6",
+                "fileName": "numbers-6.png"
+            },
+            {
+                "name": "7",
+                "fileName": "numbers-7.png"
+            },
+            {
+                "name": "8",
+                "fileName": "numbers-8.png"
+            },
+            {
+                "name": "9",
+                "fileName": "numbers-9.png"
+            }
         ]
     },
     {
@@ -71,17 +176,50 @@
         ],
         "imageName": "colors",
         "items": [
-            "Red",
-            "Blue",
-            "Yellow",
-            "Green",
-            "Orange",
-            "Purple",
-            "Pink",
-            "Brown",
-            "Black",
-            "White",
-            "Gray"
+            {
+                "name": "Red",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Blue",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Yellow",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Green",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Orange",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Purple",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Pink",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Brown",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Black",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "White",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Gray",
+                "fileName": "colors.png"
+            }
         ]
     },
     {
@@ -95,16 +233,46 @@
         ],
         "imageName": "shapes",
         "items": [
-            "circle-shapes",
-            "square-shapes",
-            "triangle-shapes",
-            "rectangle-shapes",
-            "oval-shapes",
-            "semicircle-shapes",
-            "pentagon-shapes",
-            "hexagon-shapes",
-            "diamond-shapes",
-            "star-shapes"
+            {
+                "name": "Circle",
+                "fileName": "shapes-circle.png"
+            },
+            {
+                "name": "Square",
+                "fileName": "shapes-square.png"
+            },
+            {
+                "name": "Triangle",
+                "fileName": "shapes-triangle.png"
+            },
+            {
+                "name": "Rectangle",
+                "fileName": "shapes-rectangle.png"
+            },
+            {
+                "name": "Oval",
+                "fileName": "shapes-oval.png"
+            },
+            {
+                "name": "Semicircle",
+                "fileName": "shapes-semicircle.png"
+            },
+            {
+                "name": "Pentagon",
+                "fileName": "shapes-pentagon.png"
+            },
+            {
+                "name": "Hexagon",
+                "fileName": "shapes-hexagon.png"
+            },
+            {
+                "name": "Diamond",
+                "fileName": "shapes-diamond.png"
+            },
+            {
+                "name": "Star",
+                "fileName": "shapes-star.png"
+            }
         ]
     },
     {
@@ -118,18 +286,54 @@
         ],
         "imageName": "body",
         "items": [
-            "head-body",
-            "eyes-body",
-            "ears-body",
-            "nose-body",
-            "lips-body",
-            "theeth-body",
-            "tounge-body",
-            "mouth-body",
-            "arms-body",
-            "hands-body",
-            "legs-body",
-            "feet-body"
+            {
+                "name": "Head",
+                "fileName": "body-head.png"
+            },
+            {
+                "name": "Eyes",
+                "fileName": "body-eyes.png"
+            },
+            {
+                "name": "Ears",
+                "fileName": "body-ears.png"
+            },
+            {
+                "name": "Nose",
+                "fileName": "body-nose.png"
+            },
+            {
+                "name": "Lips",
+                "fileName": "body-lips.png"
+            },
+            {
+                "name": "Teeth",
+                "fileName": "body-teeth.png"
+            },
+            {
+                "name": "Tongue",
+                "fileName": "body-tongue.png"
+            },
+            {
+                "name": "Mouth",
+                "fileName": "body-mouth.png"
+            },
+            {
+                "name": "Arms",
+                "fileName": "body-arms.png"
+            },
+            {
+                "name": "Hands",
+                "fileName": "body-hands.png"
+            },
+            {
+                "name": "Legs",
+                "fileName": "body-legs.png"
+            },
+            {
+                "name": "Feet",
+                "fileName": "body-feet.png"
+            }
         ]
     },
     {
@@ -142,7 +346,7 @@
             48.0
         ],
         "imageName": "animals",
-        "items": [ ]
+        "items": []
     },
     {
         "id": 6,
@@ -179,20 +383,62 @@
         ],
         "imageName": "occupations",
         "items": [
-            "painter-occupations",
-            "barber-occupations",
-            "carpenter-occupations",
-            "dentist-occupations",
-            "doctor-occupations",
-            "electrician-occupations",
-            "firefighter-occupations",
-            "engineer-occupations",
-            "farmer-occupations",
-            "lawyer-occupations",
-            "photographer-occupations",
-            "pilot-occupations",
-            "police-occupations",
-            "teacher-occupations"
+            {
+                "name": "Painter",
+                "fileName": "occupations-painter.png"
+            },
+            {
+                "name": "Barber",
+                "fileName": "occupations-barber.png"
+            },
+            {
+                "name": "Carpenter",
+                "fileName": "occupations-carpenter.png"
+            },
+            {
+                "name": "Dentist",
+                "fileName": "occupations-dentist.png"
+            },
+            {
+                "name": "Doctor",
+                "fileName": "occupations-doctor.png"
+            },
+            {
+                "name": "Electrician",
+                "fileName": "occupations-electrician.png"
+            },
+            {
+                "name": "Firefighter",
+                "fileName": "occupations-firefighter.png"
+            },
+            {
+                "name": "Engineer",
+                "fileName": "occupations-engineer.png"
+            },
+            {
+                "name": "Farmer",
+                "fileName": "occupations-farmer.png"
+            },
+            {
+                "name": "Lawyer",
+                "fileName": "occupations-lawyer.png"
+            },
+            {
+                "name": "Photographer",
+                "fileName": "occupations-photographer.png"
+            },
+            {
+                "name": "Pilot",
+                "fileName": "occupations-pilot.png"
+            },
+            {
+                "name": "Police",
+                "fileName": "occupations-police.png"
+            },
+            {
+                "name": "Teacher",
+                "fileName": "occupations-teacher.png"
+            }
         ]
     }
 ]
