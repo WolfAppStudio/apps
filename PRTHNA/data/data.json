@@ -170,7 +170,7 @@
                                     "title": {
                                         "en": "Jake Bal Se Girivar Kaanpe.\nRog Dosh Ja Ke Nikat Na Jhaanke",
                                         "hn": "जाके बल से गिरिवर कांपे।\nरोग दोष जाके निकट न झांके॥",
-                                        "gu": "જાકે બલ થી ગિરિવર કંપે।\nરોગ दोष જાકે નજીક ન ઝાંકે॥"
+                                        "gu": "જાકે બલ થી ગિરિવર કંપે।\nરોગ દોષ જાકે નજીક ન ઝાંકે॥"
                                     },
                                     "repeatCount": 1
                                 }
@@ -413,7 +413,7 @@
                                     "title": {
                                         "en": "Kashi Mein Viraje Vishwanath, Nandi Brahmchari.\nNit Uth Darshan Paavat, Mahima Ati Bhaari",
                                         "hn": "काशी में विराजे विश्वनाथ,नन्दी ब्रह्मचारी।\nनित उठ दर्शन पावत,महिमा अति भारी",
-                                        "gu": "કાશીમાં વિરાજે વિશ્વનાથ, નંદી બ્રહ્મचारी.\nનિત ઉઠ દર્શન પાવત, મહિમા અતિ ભારે"
+                                        "gu": "કાશીમાં વિરાજે વિશ્વનાથ, નંદી બ્રહ્મચારી.\nનિત ઉઠ દર્શન પાવત, મહિમા અતિ ભારે"
                                     },
                                     "repeatCount": 2
                                 }
@@ -454,9 +454,9 @@
                     {
                         "id": 4101,
                         "title": {
-                            "en": "Aarti Shri Amba Ji",
-                            "hn": "आरती श्री अम्बा जी",
-                            "gu": "આરતી શ્રી અંબા જી"
+                            "en": "Aarti Shri AmbaJi",
+                            "hn": "आरती श्री अम्बाजी",
+                            "gu": "આરતી શ્રી અંબાજી"
                         },
                         "thumbnail": "ambema_arti.jpg",
                         "trackURL": "ambema_arti.mp3",
@@ -536,7 +536,7 @@
                                     "title": {
                                         "en": "Brahmani Rudrani Tuma, Kamala Rani.\nAgama-Nigama-Bakhani, Tuma Shiva Patarani.",
                                         "hn": "ब्रहमाणी रुद्राणी तुम, कमला रानी।\nआगम-निगम-बखानी, तुम शिव पटरानी॥",
-                                        "gu": "બ્રહ્માણી rudrણી તમે, કમલા રાણી.\nઆગમ-નિગમ-બખાણી, તમો શિવ પટરાણી."
+                                        "gu": "“બ્રહ્માણી રુદ્રણી તમે, કમલા રાણી। \nઆગમ-નિગમ-બખાણી, તમો શિવ પટરાણી।”"
                                     },
                                     "repeatCount": 2
                                 }
@@ -576,7 +576,7 @@
                                     "title": {
                                         "en": "Kanchana Thala Virajata, Agara Kapura Bati.\nShrimalaketu Mein Rajata, Koti Ratana Jyoti.",
                                         "hn": "कन्चन थाल विराजत, अगर कपूर बाती।\nश्रीमालकेतु में राजत, कोटि रतन ज्योति॥",
-                                        "gu": "કંચન થાલ વિરાજત, અગર Kapoor બાતી.\nશ્રીમાલકેટુમાં રાજત, કરોડો રત્ન જ્યોતિ."
+                                        "gu": "કંચન થાલ વિરાજત, અગર કપૂર બાતી।\nશ્રીમાલકેટુમાં રાજત, કરોડો રત્ન જ્યોતિ।"
                                     },
                                     "repeatCount": 2
                                 }
@@ -597,3 +597,4 @@
         }
     ]
 }
+]
