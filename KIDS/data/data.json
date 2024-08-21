@@ -346,7 +346,108 @@
             48.0
         ],
         "imageURL": "animals",
-        "items": []
+        "items":  [
+            {
+                "name": "Camel",
+                "fileName": "animals-camel.png"
+            },
+            {
+                "name": "Cow",
+                "fileName": "animals-cow.png"
+            },
+            {
+                "name": "Dog",
+                "fileName": "animals-dog.png"
+            },
+            {
+                "name": "Dolphin",
+                "fileName": "animals-dolphin.png"
+            },
+            {
+                "name": "Donkey",
+                "fileName": "animals-donkey.png"
+            },
+            {
+                "name": "Elephant",
+                "fileName": "animals-elephant.png"
+            },
+            {
+                "name": "Fox",
+                "fileName": "animals-fox.png"
+            },
+            {
+                "name": "Frog",
+                "fileName": "animals-frog.png"
+            },
+            {
+                "name": "Giraffe",
+                "fileName": "animals-giraffe.png"
+            },
+            {
+                "name": "Gorilla",
+                "fileName": "animals-gorilla.png"
+            },
+            {
+                "name": "Iguana",
+                "fileName": "animals-iguana.png"
+            },
+            {
+                "name": "Kangaroo",
+                "fileName": "animals-kangaroo.png"
+            },
+            {
+                "name": "Lamb",
+                "fileName": "animals-lamb.png"
+            },
+            {
+                "name": "Lion",
+                "fileName": "animals-lion.png"
+            },
+            {
+                "name": "Monkey",
+                "fileName": "animals-monkey.png"
+            },
+            {
+                "name": "Mouse",
+                "fileName": "animals-mouse.png"
+            },
+            {
+                "name": "Octopus",
+                "fileName": "animals-octopus.png"
+            },
+            {
+                "name": "Panda",
+                "fileName": "animals-panda.png"
+            },
+            {
+                "name": "Pig",
+                "fileName": "animals-pig.png"
+            },
+            {
+                "name": "Rabbit",
+                "fileName": "animals-rabbit.png"
+            },
+            {
+                "name": "Squirrel",
+                "fileName": "animals-squirrel.png"
+            },
+            {
+                "name": "Starfish",
+                "fileName": "animals-starfish.png"
+            },
+            {
+                "name": "Tiger",
+                "fileName": "animals-tiger.png"
+            },
+            {
+                "name": "Turtle",
+                "fileName": "animals-turtle.png"
+            },
+            {
+                "name": "Zebra",
+                "fileName": "animals-zebra.png"
+            }
+        ]
     },
     {
         "id": 6,
@@ -358,7 +459,64 @@
             108.0
         ],
         "imageURL": "birds",
-        "items": []
+        "items": [
+            {
+                "name": "Woodpecker",
+                "fileName": "birds-woodpeacker.png"
+            },
+            {
+                "name": "Crow",
+                "fileName": "birds-crow.png"
+            },
+            {
+                "name": "Duck",
+                "fileName": "birds-duck.png"
+            },
+            {
+                "name": "Eagle",
+                "fileName": "birds-eagle.png"
+            },
+            {
+                "name": "Falcon",
+                "fileName": "birds-falcon.png"
+            },
+            {
+                "name": "Flamingo",
+                "fileName": "birds-flamingo.png"
+            },
+            {
+                "name": "Hen",
+                "fileName": "birds-hen.png"
+            },
+            {
+                "name": "Heron",
+                "fileName": "birds-heron.png"
+            },
+            {
+                "name": "Honey Bee",
+                "fileName": "birds-honey-bee.png"
+            },
+            {
+                "name": "Owl",
+                "fileName": "birds-owl.png"
+            },
+            {
+                "name": "Parrot",
+                "fileName": "birds-parrot.png"
+            },
+            {
+                "name": "Pigeon",
+                "fileName": "birds-pigeon.png"
+            },
+            {
+                "name": "Sparrow",
+                "fileName": "birds-sparrow.png"
+            },
+            {
+                "name": "Swan",
+                "fileName": "birds-swan.png"
+            }
+        ]
     },
     {
         "id": 7,
