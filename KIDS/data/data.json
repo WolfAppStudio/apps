@@ -531,7 +531,7 @@
         "items":  [
             {
                 "name": "Crane",
-                "fileName": "vehicles-Crane.png"
+                "fileName": "vehicles-crane.png"
             },
             {
                 "name": "Air Balloon",
@@ -583,7 +583,7 @@
             },
             {
                 "name": "School Bus",
-                "fileName": "vehicles-school-bus.png"
+                "fileName": "vehicles-sbus.png"
             },
             {
                 "name": "Scooter",
