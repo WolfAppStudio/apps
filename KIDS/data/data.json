@@ -396,7 +396,7 @@
                 "fileName": "animals-kangaroo.png"
             },
             {
-                "name": "Lamb",
+                "name": "Sheep",
                 "fileName": "animals-lamb.png"
             },
             {
@@ -530,8 +530,8 @@
         "imageURL": "vehicles",
         "items":  [
             {
-                "name": "Truck",
-                "fileName": "vehicles-truck.png"
+                "name": "Crane",
+                "fileName": "vehicles-crane.png"
             },
             {
                 "name": "Air Balloon",
