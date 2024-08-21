@@ -530,8 +530,8 @@
         "imageURL": "vehicles",
         "items":  [
             {
-                "name": "Truck",
-                "fileName": "vehicles-truck.png"
+                "name": "Crane",
+                "fileName": "vehicles-crane.png"
             },
             {
                 "name": "Air Balloon",
