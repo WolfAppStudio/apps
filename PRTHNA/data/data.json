@@ -1,1692 +1,738 @@
-{
-                                "slok": {
-                                    "title": {
-                                        "en": "Shumbha-Nishumbha Bidare, Mahishasura Ghati.\nDhumra Vilochana Naina, Nishidina Madamati.",
-                                        "hn": "शुम्भ-निशुम्भ बिदारे, महिषासुर घाती।\nधूम्र विलोचन नैना, निशिदिन मदमाती॥",
-                                        "gu": "શુંબા-નિશુંબા બિદારે, મહિષાસુર ઘાતી.\nધૂમ્ર વિલોચન નૈના, નિશિદિન મદમતી."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Chanda-Munda Sanhare, Shonita Bija Hare.\nMadhu-Kaitabha Dou Mare, Sura Bhayahina Kare.",
-                                        "hn": "चण्ड-मुण्ड संहारे, शोणित बीज हरे।\nमधु-कैटभ दोउ मारे, सुर भयहीन करे॥",
-                                        "gu": "ચંડ-મુંડ સંહારે, શોનીત બીજ હારે.\nમધુ-કૈટભ દોઉ મારે, સુર ભયહીન કરે."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Brahmani Rudrani Tuma, Kamala Rani.\nAgama-Nigama-Bakhani, Tuma Shiva Patarani.",
-                                        "hn": "ब्रहमाणी रुद्राणी तुम, कमला रानी।\nआगम-निगम-बखानी, तुम शिव पटरानी॥",
-                                        "gu": "બ્રહ્માણી રુદ્રણી તમે, કમલા રાણી। \nઆગમ-નિગમ-બખાણી, તમો શિવ પટરાણી।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Chausatha Yogini Mangala Gavata, Nritya Karata Bhairun.\nBajata Tala Mridanga, Aru Bajata Damaru.",
-                                        "hn": "चौंसठ योगिनी मंगल गावत, नृत्य करत भैरूँ।\nबाजत ताल मृदंगा, अरु बाजत डमरु॥",
-                                        "gu": "ચૌસઠ યોગિની મંગલ ગાવત, નૃત્ય કરત ભૈરૂ.\nબાજત તાલ મૃદંગ, અરુ બાજત ડમરુ."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Tuma Hi Jaga Ki Mata, Tuma Hi Ho Bharata.\nBhaktana Ki Dukha Harata, Sukha Sampatti Karata.",
-                                        "hn": "तुम ही जग की माता, तुम ही हो भरता।\nभक्तन की दु:ख हरता, सुख सम्पत्ति करता॥",
-                                        "gu": "તમ જગની માતા, તમ જભારત.\nભક્તોની દુ:ખ હરતા, સુખ સંપત્તિ કરતા."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Bhuja Chara Ati Shobhita, Vara-Mudra Dhari.\nManavanchhita Phala Pavata, Sevata Nara-Nari.",
-                                        "hn": "भुजा चार अति शोभित, वर-मुद्रा धारी।\nमनवान्छित फल पावत, सेवत नर-नारी॥",
-                                        "gu": "ભુજા ચાર અતિ શોભિત, વાર-મુદ્રા ધારિ.\nમનવાન્છિત ફળ પાવત, સેવા નર-નારી."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kanchana Thala Virajata, Agara Kapura Bati.\nShrimalaketu Mein Rajata, Koti Ratana Jyoti.",
-                                        "hn": "कन्चन थाल विराजत, अगर कपूर बाती।\nश्रीमालकेतु में राजत, कोटि रतन ज्योति॥",
-                                        "gu": "કંચન થાલ વિરાજત, અગર કપૂર બાતી।\nશ્રીમાલકેટુમાં રાજત, કરોડો રત્ન જ્યોતિ।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Shri Ambeji Ki Aarti, Jo Koi Nara Gavai.\nKahata Shivananda Swami, Sukha Sampatti Pavai.",
-                                        "hn": "श्री अम्बे जी की आरती, जो कोई नर गावे।\nकहता शिवानंद स्वामी, सुख सम्पत्ति पावे॥",
-                                        "gu": "શ્રી અમ્બે જી ની આરતી, જે કોઈ નાર ગાવે.\nકહે છે શિવાનંદ સ્વામી, સુખ સંપત્તિ પાવે."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 42,
-                "type": {
-                    "en": "Chalisa",
-                    "hn": "चालीसा",
-                    "gu": "ચાલીસા"
-                },
-                "subitems": [
-                    {
-                        "id": 4201,
-                        "title": {
-                            "en": "Durga Chalisa",
-                            "hn": "दुर्गा चालीसा",
-                            "gu": "દુર્ગા ચાલીસા"
-                        },
-                        "thumbnail": "durga_chalisa.jpg",
-                        "trackURL": "durga_chalisa.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Namo Namo Durge Sukh Karni, Namo Namo Ambe Dukh Harni.\nNirankar Hai Jyoti Tumhari, Tihun Lok Mein Goon Ujiyari.",
-                                        "hn": "नमो नमो दुर्गे सुख करनी, नमो नमो अम्बे दुख हरनी।\nनिरंकार है ज्योति तुम्हारी, तिहुं लोक में गूंज उजियारी।",
-                                        "gu": "નમો નમો દુર્ગે સુખ કરની, નમો નમો અંબે દુઃખ હરની।\nનિરંકાર છે જ્યોતિ તુમ્હારી, તિહું લોક મેં ગૂંજ ઉજિયારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Sasir Sudha Sama Tera Mukha, Chandra Soshe Voh Ujayla.\nGanga Maiya Tu Ganga Maiya, Tere Darshan Ko Balhaari.",
-                                        "hn": "शशिर सुधा सम तेरा मुख, चन्द्र सोसे वह उजयला।\nगंगा मैया तू गंगा मैया, तेरे दर्शन को बलहारी।",
-                                        "gu": "શશિર સુધા સમ તેરા મુખ, ચન્દ્ર સોશે વહ ઉજયલા।\nગંગા મૈયા તું ગંગા મૈયા, તેરે દર્શન કો બલહારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Koti Naam Hamari Maiya, Sukh Ki Aap Adhikari.\nJo Jap Le Tera Nām, Bhav Sagar Se Utare.",
-                                        "hn": "कोटि नाम हमारी मैया, सुख की आप अधिकारी।\nजो जप ले तेरा नाम, भव सागर से उतारे।",
-                                        "gu": "કોટિ નામ હમારી મૈયા, સુખ કી આપ અધિકારી।\nજો જપ લે તેરા નામ, ભવ સાગર સે ઉતારે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Rakt Beej Se Jab Yu Ladhi, Tab Kali Ka Roop Dhara.\nSumon Munda Asur Sanhare, Rakta Beej Ko Mara.",
-                                        "hn": "रक्त बीज से जब यूं लड़ी, तब काली का रूप धारा।\nसुमों मुंडा असुर संहारे, रक्त बीज को मारा।",
-                                        "gu": "રક્ત બીજ સે જબ યૂં લડી, તબ કાલી કા રૂપ ધારા।\nસુમો મુંડા અસુર સંહારે, રક્ત બીજ કો મારા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Mahishi Asur Jab Aya, Kitna Krodh Machaya.\nRoop Karal Ka Dhara, Asur Dal Ko Mara.",
-                                        "hn": "महिषी असुर जब आया, कितना क्रोध मचाया।\nरूप कराल का धारा, असुर दल को मारा।",
-                                        "gu": "મહિષી અસુર જબ આયા, કિતના ક્રોધ મચાયા।\nરૂપ કરાલ કા ધારા, અસુર દલ કો મારા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 5,
-                                    "title": {
-                                        "en": "Shumbha Nishumbha Jab Aaye, Bhoot Pishach Sab Laaye.\nKya Garjana Tab Kari, Shatru Dal Ko Mari.",
-                                        "hn": "शुम्भ निशुम्भ जब आये, भूत पिशाच सब लाये।\nक्या गर्जना तब करी, शत्रु दल को मारी।",
-                                        "gu": "શુંભ નિશુંભ જબ આયે, ભૂત પિશાચ સબ લાયે।\nક્યા ગર્જના તબ કરી, શત્રુ દલ કો મારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 6,
-                                    "title": {
-                                        "en": "Ambe Tu Hai Jagdamba, Kali Mahakali Mamba.\nBrahmaani Rudraani Tu, Kamala Rani Tumhi.",
-                                        "hn": "अम्बे तू है जगदम्बा, काली महाकाली मम्बा।\nब्रह्माणी रुद्राणी तू, कमला रानी तुम्ही।",
-                                        "gu": "અંબે તું છે જગદંબા, કાલી મહાકાલી મંબા।\nબ્રહ્માણી રુદ્રાણી તું, કમળા રાણી તુંહી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 7,
-                                    "title": {
-                                        "en": "Inka Naam Leve Jo Koi, Poorna Hote Kaam Soi.\nDukh Daridra Tate Mari, Sukh Sampatti Adhikari.",
-                                        "hn": "इनका नाम लेवे जो कोई, पूर्ण होते काम सोई।\nदुख दरिद्रा तते मारी, सुख सम्पत्ति अधिकारी।",
-                                        "gu": "ઇનકા નામ લેવે જો કોઈ, પૂર્ણ હોતે કામ સોઈ।\nદુખ દરિદ્રા તતે મારી, સુખ સંપત્તિ અધિકારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 8,
-                                    "title": {
-                                        "en": "Bhuj Char Ati Sobhita, Khadga Khappar Dhari.\nMan Vanchhit Phal Pavat, Sevak Nar Nar Nari.",
-                                        "hn": "भुज चार अति शोभिता, खड्ग खप्पर धारी।\nमन वांछित फल पावत, सेवक नर नर नारी।",
-                                        "gu": "ભુજ ચાર અતિ શોભિતા, ખડ્ગ ખપ્પર ધારી।\nમન વાંછિત ફળ પાવત, સેવક નર નર નારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 9,
-                                    "title": {
-                                        "en": "Kanchana Thaal Viraje, Agaru Kapur Bati.\nMalaketu Mein Rajat, Kotik Ratan Jyoti.",
-                                        "hn": "कन्चन थाल विराजे, अगरु कपूर बाती।\nमालकेतु में राजत, कोटिक रतन ज्योति।",
-                                        "gu": "કંચન થાલ વિરાજે, અગરુ કપૂર બાતી।\nમાલકેતુ મેં રાજત, કોટિક રતન જ્યોતિ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 10,
-                                    "title": {
-                                        "en": "Shri Ambe Ji Ki Aarti, Jo Koi Nar Gave.\nKahat Shivanand Swami, Sukh Sampatti Pave.",
-                                        "hn": "श्री अम्बे जी की आरती, जो कोई नर गावे।\nकहत शिवानंद स्वामी, सुख सम्पत्ति पावे।",
-                                        "gu": "શ્રી અંબે જી કી આરતી, જો કોઈ નર ગાવે।\nકહત શિવાનંદ સ્વામી, સુખ સંપત્તિ પાવે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 43,
-                "type": {
-                    "en": "Mantra",
-                    "hn": "मंत्र",
-                    "gu": "મંત્ર"
-                },
-                "subitems": [
-                    {
-                        "id": 4301,
-                        "title": {
-                            "en": "Durga Mantra",
-                            "hn": "दुर्गा मंत्र",
-                            "gu": "દુર્ગા મંત્ર"
-                        },
-                        "thumbnail": "durga_mantra.jpg",
-                        "trackURL": "durga_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha\nOm Dum Durgayei Namaha",
-                                        "hn": "ॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः\nॐ दुं दुर्गायै नमः",
-                                        "gu": "ૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ\nૐ દું દુર્ગાયૈ નમઃ"
-                                    },
-                                    "repeatCount": 108
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": 4302,
-                        "title": {
-                            "en": "Navarna Mantra",
-                            "hn": "नवार्ण मंत्र",
-                            "gu": "નવાર્ણ મંત્ર"
-                        },
-                        "thumbnail": "navarna_mantra.jpg",
-                        "trackURL": "navarna_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Aim Hreem Kleem Chamundayei Vichche\nOm Aim Hreem Kleem Chamundayei Vichche\nOm Aim Hreem Kleem Chamundayei Vichche\nOm Aim Hreem Kleem Chamundayei Vichche\nOm Aim Hreem Kleem Chamundayei Vichche\nOm Aim Hreem Kleem Chamundayei Vichche",
-                                        "hn": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे\nॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
-                                        "gu": "ૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે\nૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે\nૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે\nૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે\nૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે\nૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે"
-                                    },
-                                    "repeatCount": 108
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 44,
-                "type": {
-                    "en": "Bhajan",
-                    "hn": "भजन",
-                    "gu": "ભજન"
-                },
-                "subitems": [
-                    {
-                        "id": 4401,
-                        "title": {
-                            "en": "Jai Mata Di",
-                            "hn": "जय माता दी",
-                            "gu": "જય માતા દી"
-                        },
-                        "thumbnail": "jai_mata_di.jpg",
-                        "trackURL": "jai_mata_di.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Jai Mata Di, Jai Mata Di.\nMaiya Sherawali Ki Jai Mata Di.\nJai Mata Di, Jai Mata Di.\nMaiya Sherawali Ki Jai Mata Di.\nJai Mata Di, Jai Mata Di.\nMaiya Sherawali Ki Jai Mata Di.\nJai Mata Di, Jai Mata Di.\nMaiya Sherawali Ki Jai Mata Di.",
-                                        "hn": "जय माता दी, जय माता दी।\nमैया शेरावाली की जय माता दी।\nजय माता दी, जय माता दी।\nमैया शेरावाली की जय माता दी।\nजय माता दी, जय माता दी।\nमैया शेरावाली की जय माता दी।\nजय माता दी, जय माता दी।\nमैया शेरावाली की जय माता दी।",
-                                        "gu": "જય માતા દી, જય માતા દી।\nમૈયા શેરાવાલી કી જય માતા દી।\nજય માતા દી, જય માતા દી।\nમૈયા શેરાવાલી કી જય માતા દી।\nજય માતા દી, જય માતા દી।\nમૈયા શેરાવાલી કી જય માતા દી।\nજય માતા દી, જય માતા દી।\nમૈયા શેરાવાલી કી જય માતા દી।"
-                                    },
-                                    "repeatCount": 8
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 45,
-                "type": {
-                    "en": "Stotram",
-                    "hn": "स्तोत्रम्",
-                    "gu": "સ્તોત્રમ્"
-                },
-                "subitems": [
-                    {
-                        "id": 4501,
-                        "title": {
-                            "en": "Durga Saptashati",
-                            "hn": "दुर्गा सप्तशती",
-                            "gu": "દુર્ગા સપ્તશતી"
-                        },
-                        "thumbnail": "durga_saptashati.jpg",
-                        "trackURL": "durga_saptashati.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Sarva Mangala Mangalye Shive Sarvaartha Sadhike.\nSharanye Tryambake Gauri Narayani Namostute.\nSarva Mangala Mangalye Shive Sarvaartha Sadhike.\nSharanye Tryambake Gauri Narayani Namostute.\nSarva Mangala Mangalye Shive Sarvaartha Sadhike.\nSharanye Tryambake Gauri Narayani Namostute.",
-                                        "hn": "सर्व मंगल मांगल्ये शिवे सर्वार्थ साधिके।\nशरण्ये त्र्यम्बके गौरि नारायणी नमोऽस्तुते।\nसर्व मंगल मांगल्ये शिवे सर्वार्थ साधिके।\nशरण्ये त्र्यम्बके गौरि नारायणी नमोऽस्तुते।\nसर्व मंगल मांगल्ये शिवे सर्वार्थ साधिके।\nशरण्ये त्र्यम्बके गौरि नारायणी नमोऽस्तुते।",
-                                        "gu": "સર્વ મંગલ માંગલ્યે શિવે સર્વાર્થ સાધિકે।\nશરણ્યે ત્ર્યંબકે ગૌરિ નારાયણી નમોઽસ્તુતે।\nસર્વ મંગલ માંગલ્યે શિવે સર્વાર્થ સાધિકે।\nશરણ્યે ત્ર્યંબકે ગૌરિ નારાયણી નમોઽસ્તુતે।\nસર્વ મંગલ માંગલ્યે શિવે સર્વાર્થ સાધિકે।\nશરણ્યે ત્ર્યંબકે ગૌરિ નારાયણી નમોઽસ્તુતે।"
-                                    },
-                                    "repeatCount": 11
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Vishnu Mayeti Shabdita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Chetanyeti Shabdita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु विष्णु मायेति शब्दिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु चेतन्येति शब्दिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ વિષ્ણુ માયેતિ શબ્દિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ ચેતન્યેતિ શબ્દિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Buddhi Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Nidra Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु बुद्धि रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु निद्रा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ બુદ્ધિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ નિદ્રા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Kshudha Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Chhaya Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु क्षुधा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु छाया रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ ક્ષુધા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ છાયા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Shakti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Trishna Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु शक्ति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु तृष्णा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ શક્તિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ તૃષ્ણા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 5,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Kshanti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Jati Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु क्षान्ति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु जाति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ ક્ષાન્તિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ જાતિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 6,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Lajja Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Shanti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु लज्जा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु शान्ति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ લજ્જા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ શાન્તિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 7,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Shraddha Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Kanti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु श्रद्धा रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु कान्ति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ શ્રદ્ધા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ કાન્તિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 8,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Lakshmi Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Vritti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु लक्ष्मी रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु वृत्ति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ લક્ષ્મી રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ વૃત્તિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 9,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Smriti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Daya Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु स्मृति रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु दया रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ સ્મૃતિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ દયા રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 10,
-                                    "title": {
-                                        "en": "Ya Devi Sarva Bhuteshu Tusti Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.\nYa Devi Sarva Bhuteshu Matri Rupena Samsthita.\nNamastasyai Namastasyai Namastasyai Namo Namah.",
-                                        "hn": "या देवी सर्व भूतेषु तुष्टि रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।\nया देवी सर्व भूतेषु मातृ रूपेण संस्थिता।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः।",
-                                        "gu": "યા દેવી સર્વ ભૂતેષુ તુષ્ટિ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।\nયા દેવી સર્વ ભૂતેષુ માતૃ રૂપેણ સંસ્થિતા।\nનમસ્તસ્યૈ નમસ્તસ્યૈ નમસ્તસ્યૈ નમો નમઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
-] સર્વાર્થ સાધિકે।\nશરણ્યે ત્ર્યંબકે ગૌરિ નારાયણી નમોઽસ્તુતે।\nસર્વ મંગલ માંગલ્યે શિવે                                        "gu": "ૐ જય શિવ ઓંકારા, સ્વામી જય શિવ ઓંકારા.\nબ્રહ્મા, વિષ્ણુ, સદાશિવ, અર્દાંગી ધારા"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Ekanan Chaturanan Panchanan Raje.\nHansasan, Garudasan Vrishvahan Saje",
-                                        "hn": "एकानन चतुराननपञ्चानन राजे।\nहंसासन गरूड़ासनवृषवाहन साजे",
-                                        "gu": "એકાનન ચતુરાનન પંચાનન રાજે.\nહંસાસન, ગરુડાસન, વૃષવાહન સાજે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Do Bhuj, Chaar Chaturbhuj Dashabhuj Ati Sohe.\nTrigun Roop Nirakhate Tribhuvan Jan Mohe",
-                                        "hn": "दो भुज चार चतुर्भुजदसभुज अति सोहे।\nत्रिगुण रूप निरखतेत्रिभुवन जन मोहे",
-                                        "gu": "દો ભુજ, ચાર ચતુર્ભુજ દશભુજ અતિ સોહે.\nત્રિગુણ રૂપ નિરખતે ત્રિભુવન જન મોહે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Akshamala Vanamala Mundamala Dhari.\nTripurari Kansari Kar Mala Dhari",
-                                        "hn": "अक्षमाला वनमालामुण्डमाला धारी।\nत्रिपुरारी कंसारीकर माला धारी",
-                                        "gu": "અક્ષમાળા વણમાળા મુંડમાળા ધારણ કરેછે.\nત્રિપુરારી કન્સારી કર માળા ધારણ કરે છે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Shvetambar Pitambar Baaghambar Ange.\nSankadik Garunadik Bhootadik Sange",
-                                        "hn": "श्वेताम्बर पीताम्बरबाघम्बर अंगे।\nसनकादिक गरुणादिकभूतादिक संगे",
-                                        "gu": "શ્વેતામ્બર પીતાામ્બર બાઘમ્બર અંગે.\nસનકાદિક ગરુણાદિક ભૂતાદિક સંગે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kar Ke Madhya Kamandalu Chakra Trishuldhari.\nSukhakari Dukhahari Jagpalan Kari",
-                                        "hn": "कर के मध्य कमण्डलुचक्र त्रिशूलधारी।\nसुखकारी दुखहारीजगपालन कारी",
-                                        "gu": "કર કે મધ્ય કમંડલુ ચક્ર ત્રિશૂલધારી.\nસુખકારી દુખહારી જગપાલન કરી"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Brahma Vishnu Sadashiv Janat Aviveka.\nPranavakshara Madhye Ye Tinon Eka",
-                                        "hn": "ब्रह्मा विष्णु सदाशिवजानत अविवेका।\nप्रणवाक्षर मध्येये तीनों एका",
-                                        "gu": "બ્રહ્મા વિષ્ણુ સદાશિવ જાણત અવિવેક.\nપ્રણવાક્ષર મધ્યે એ ત્રણેય એકા"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Lakshmi Va Savitri Parvati Sanga.\nParvati Ardhangi, Shivalahari Ganga",
-                                        "hn": "लक्ष्मी व सावित्रीपार्वती संगा।\nपार्वती अर्द्धांगी,शिवलहरी गंगा",
-                                        "gu": "લક્ષ્મી વા સાવિત્રી પાર્વતી સંગ.\nપાર્વતી અર્દાંગી, શિવલહરી ગંગા"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Parvat Sauhen Parvati, Shankar Kailasa.\nBhaang Dhatoor Ka Bhojan, Bhasmi Mein Vaasa",
-                                        "hn": "पर्वत सोहैं पार्वती,शंकर कैलासा।\nभांग धतूर का भोजन,भस्मी में वासा",
-                                        "gu": "પર્વત સુહે પાર્વતી, શંકર કૈલાસ.\nભાંગ ઢતૂરનું ભોજન, ભસ્મી મા વાસા"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Jataa Mein Ganga Bahat Hai, Gal Mundan Mala.\nShesh Naag Liptavat, Odat Mrigchhala",
-                                        "hn": "जटा में गंगा बहत है,गल मुण्डन माला।\nशेष नाग लिपटावत,ओढ़त मृगछाला",
-                                        "gu": "જટામાં ગંગા વહે છે,ગળ મુંડન માલા.\nશેષ નાગ લિપટાવે છે,ઓઢત મૃગછાળા"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kashi Mein Viraje Vishwanath, Nandi Brahmchari.\nNit Uth Darshan Paavat, Mahima Ati Bhaari",
-                                        "hn": "काशी में विराजे विश्वनाथ,नन्दी ब्रह्मचारी।\nनित उठ दर्शन पावत,महिमा अति भारी",
-                                        "gu": "કાશીમાં વિરાજે વિશ્વનાથ, નંદી બ્રહ્મચારી.\nનિત ઉઠ દર્શન પાવત, મહિમા અતિ ભારે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Trigunswami Ji Ki Aarti Jo Koi Nar Gave.\nKahat Shivanand Swami, Manvanchhit Phal Pave",
-                                        "hn": "त्रिगुणस्वामी जी की आरतीजो कोइ नर गावे।\nकहत शिवानन्द स्वामी,मनवान्छित फल पावे",
-                                        "gu": "ત્રિગુણસ્વામી જી ની આરતી જે કોઈ નર ગાવે.\nકહે છે શિવાનંદ સ્વામી, મનવન્છિત ફળ પાવે"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 32,
-                "type": {
-                    "en": "Mantra",
-                    "hn": "मंत्र",
-                    "gu": "મંત્ર"
-                },
-                "subitems": [
-                    {
-                        "id": 3201,
-                        "title": {
-                            "en": "Om Namah Shivaya",
-                            "hn": "ॐ नमः शिवाय",
-                            "gu": "ૐ નમઃ શિવાય"
-                        },
-                        "thumbnail": "om_namah_shivaya.jpg",
-                        "trackURL": "om_namah_shivaya.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya",
-                                        "hn": "ॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय",
-                                        "gu": "ૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય\nૐ નમઃ શિવાય"
-                                    },
-                                    "repeatCount": 108
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": 3202,
-                        "title": {
-                            "en": "Mahamrityunjaya Mantra",
-                            "hn": "महामृत्युंजय मंत्र",
-                            "gu": "મહામૃત્યુંજય મંત્ર"
-                        },
-                        "thumbnail": "mahamrityunjaya_mantra.jpg",
-                        "trackURL": "mahamrityunjaya_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat.\nOm Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat.\nOm Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat.",
-                                        "hn": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्।\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्।\nॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्।",
-                                        "gu": "ૐ ત્ર્યમ્બકં યજામહે સુગન્ધિં પુષ્ટિવર્ધનમ્।\nઉર્વારુકમિવ બન્ધનાન્ મૃત્યોર્મુક્ષીય મામૃતાત્।\nૐ ત્ર્યમ્બકં યજામહે સુગન્ધિં પુષ્ટિવર્ધનમ્।\nઉર્વારુકમિવ બન્ધનાન્ મૃત્યોર્મુક્ષીય મામૃતાત્।\nૐ ત્ર્યમ્બકં યજામહે સુગન્ધિં પુષ્ટિવર્ધનમ્।\nઉર્વારુકમિવ બન્ધનાન્ મૃત્યોર્મુક્ષીય મામૃતાત્।"
-                                    },
-                                    "repeatCount": 21
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 33,
-                "type": {
-                    "en": "Bhajan",
-                    "hn": "भजन",
-                    "gu": "ભજન"
-                },
-                "subitems": [
-                    {
-                        "id": 3301,
-                        "title": {
-                            "en": "Har Har Mahadev",
-                            "hn": "हर हर महादेव",
-                            "gu": "હર હર મહાદેવ"
-                        },
-                        "thumbnail": "har_har_mahadev.jpg",
-                        "trackURL": "har_har_mahadev.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Har Har Mahadev, Har Har Mahadev.\nShambhu Shankar Har Har Mahadev.\nHar Har Mahadev, Har Har Mahadev.\nShambhu Shankar Har Har Mahadev.\nHar Har Mahadev, Har Har Mahadev.\nShambhu Shankar Har Har Mahadev.\nHar Har Mahadev, Har Har Mahadev.\nShambhu Shankar Har Har Mahadev.",
-                                        "hn": "हर हर महादेव, हर हर महादेव।\nशम्भु शंकर हर हर महादेव।\nहर हर महादेव, हर हर महादेव।\nशम्भु शंकर हर हर महादेव।\nहर हर महादेव, हर हर महादेव।\nशम्भु शंकर हर हर महादेव।\nहर हर महादेव, हर हर महादेव।\nशम्भु शंकर हर हर महादेव।",
-                                        "gu": "હર હર મહાદેવ, હર હર મહાદેવ।\nશંભુ શંકર હર હર મહાદેવ।\nહર હર મહાદેવ, હર હર મહાદેવ।\nશંભુ શંકર હર હર મહાદેવ।\nહર હર મહાદેવ, હર હર મહાદેવ।\nશંભુ શંકર હર હર મહાદેવ।\nહર હર મહાદેવ, હર હર મહાદેવ।\nશંભુ શંકર હર હર મહાદેવ।"
-                                    },
-                                    "repeatCount": 8
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 34,
-                "type": {
-                    "en": "Stotram",
-                    "hn": "स्तोत्रम्",
-                    "gu": "સ્તોત્રમ્"
-                },
-                "subitems": [
-                    {
-                        "id": 3401,
-                        "title": {
-                            "en": "Shiva Tandava Stotram",
-                            "hn": "शिव तांडव स्तोत्रम्",
-                            "gu": "શિવ તાંડવ સ્તોત્રમ્"
-                        },
-                        "thumbnail": "shiva_tandava_stotram.jpg",
-                        "trackURL": "shiva_tandava_stotram.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Jatatavigalajjala Pravahapavitasthale.\nGaleavalambya Lambitam Bhujangatungamalikam.\nDamaddamaddamaddamaddama Ninnadavadamarvaye.\nChakara Chandatandavam Tanotu Nah Shivam Shivah.",
-                                        "hn": "जटाटवीगलज्जल प्रवाहपावितस्थले।\nगलेऽवलम्ब्य लम्बितं भुजंगतुंगमालिकम्।\nडमड्डमड्डमड्डमड्डम निनाद वडमर्वयं।\nचकार चण्डताण्डवं तनोतु नः शिवं शिवः।",
-                                        "gu": "જટાટવીગલજ્જલ પ્રવાહપાવિતસ્થલે।\nગલેઽવલંબ્ય લંબિતં ભુજંગતુંગમાલિકમ્।\nડમડ્ડમડ્ડમડ્ડમડ્ડમ નિનાદ વડમર્વયં।\nચકાર ચંડતાંડવં તનોતુ નઃ શિવં શિવઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Jata Kataha Sambhrama Bhramadbhujanga Masphurjjita.\nDhimiddhimi Dhimiddhimi Dhimiddha Mavadamukhe.\nTripuraghna Chintamani Santataka Pravartaka.\nShilimpa Bilva Kalyanam Tanotu Nah Shivam Shivah.",
-                                        "hn": "जटा कटाह संभ्रम भ्रमद्भुजंग मस्फुर्जित।\nधिमिधिमि धिमिधिमि धिमिधधावदमुखे।\nत्रिपुरघ्न चिन्तामणि सन्तत प्रवर्तक।\nशिलिम्प बिल्व कल्याणं तनोतु नः शिवं शिवः।",
-                                        "gu": "જટા કટાહ સંભ્રમ ભ્રમદ્ભુજંગ મસ્ફુર્જિત।\nધિમિધિમિ ધિમિધિમિ ધિમિધધાવદમુખે।\nત્રિપુરઘ્ન ચિન્તામણિ સન્તત પ્રવર્તક।\nશિલિમ્પ બિલ્વ કલ્યાણં તનોતુ નઃ શિવં શિવઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Dhara Dharendra Nandinivinnita Pustaka Sringave.\nBhujanga Pingala Sphurat Phanamaniprabhakarе.\nSahastralochanaprabhrutya Sheshalekhashekhara.\nPrasunna Shuddhatattvam Tanotu Nah Shivam Shivah.",
-                                        "hn": "धरा धरेन्द्र नन्दिनी विलास बन्धुवन्दिते।\nभुजंग पिंगल स्फुरत् फणामणिप्रभाकरे।\nसहस्रलोचनप्रभृत्य शेषलेखशेखरे।\nप्रसून शुद्धतत्त्वं तनोतु नः शिवं शिवः।",
-                                        "gu": "ધરા ધરેન્દ્ર નન્દિની વિલાસ બન્ધુવન્દિતે।\nભુજંગ પિંગલ સ્ફુરત્ ફણામણિપ્રભાકરે।\nસહસ્રલોચનપ્રભૃત્ય શેષલેખશેખરે।\nપ્રસૂન શુદ્ધતત્ત્વં તનોતુ નઃ શિવં શિવઃ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Shree Ganeshji",
+      "hn": "श्री गणेशजी",
+      "gu": "શ્રી ગણેશજી"
     },
-    {
-        "id": 4,
-        "title": {
-            "en": "Amba Maa",
-            "hn": "अंबा माँ",
-            "gu": "અંબા માં"
+    "image": "ganesh",
+    "items": [
+      {
+        "id": 11,
+        "type": {
+          "en": "Arti",
+          "hn": "आरती",
+          "gu": "આરતી"
         },
-        "image": "ambema",
-        "items": [
-            {
-                "id": 41,
-                "type": {
-                    "en": "Arti",
-                    "hn": "आरती",
-                    "gu": "આરતી"
-                },
-                "subitems": [
-                    {
-                        "id": 4101,
-                        "title": {
-                            "en": "Aarti Shri AmbaJi",
-                            "hn": "आरती श्री अम्बाजी",
-                            "gu": "આરતી શ્રી અંબાજી"
-                        },
-                        "thumbnail": "ambema_arti.jpg",
-                        "trackURL": "ambema_arti.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Jai Ambe Gauri, Maiya Jai Shyama Gauri.\nTumako Nishidina Dhyawata, Hari Brahma Shivari.",
-                                        "hn": "जय अम्बे गौरी, मैया जय श्यामा गौरी।\nतुमको निशिदिन ध्यावत, हरि ब्रह्मा शिवरी॥",
-                                        "gu": "જય અમ્બે ગૌરી, માઈયા જય શ્યામા ગૌરી.\nતમને નિશિદિન ધ્યાવતા, હરિ બ્રહ્મા શિવરી."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Manga Sindura Virajata, Tiko Mrigamada Ko.\nUjjavala Se Dou Naina, Chandravadana Niko.",
-                                        "hn": "माँग सिन्दूर विराजत, टीको मृगमद को।\nउज्जवल से दोउ नैना, चन्द्रवदन नीको॥",
-                                        "gu": "માંગ સિન્દૂર વિરાજત, ટીકો મૃગમદા કો.\nઉજ્જવલ સે દોઉ નૈના, ચંદ્રવદન નીકો."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kanaka Samana Kalewara, Raktambara Rajai.\nRaktapushpa Gala Mala, Kanthana Para Sajai.",
-                                        "hn": "कनक समान कलेवर, रक्ताम्बर राजै।\nरक्तपुष्प गल माला, कण्ठन पर साजै॥",
-                                        "gu": "કનક સમાન કલેવર, રક્તાંબર રાજે.\nરક્તપુષ્પ ગળા માળા, કણ્ઠના પર સાજે."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kehari Vahana Rajata, Khadga Khapparadhari.\nSura-Nara-Muni-Jana Sevata, Tinake Dukhahari.",
-                                        "hn": "केहरि वाहन राजत, खड्ग खप्परधारी।\nसुर-नर-मुनि-जन सेवत, तिनके दुखहारी॥",
-                                        "gu": "કેહરી વાહન રાજત, ખડ્ગ ખપ્પરધારી.\nસુર-નર-મુનિ-જન સેવત, તિનકે દુઃખહારી."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kanana Kundala Shobhita, Nasagre Moti.\nKotika Chandra Diwakara, Sama Rajata Jyoti.",
-                                        "hn": "कानन कुण्डल शोभित, नासाग्रे मोती।\nकोटिक चन्द्र दिवाकर, सम राजत ज्योति॥",
-                                        "gu": "કાનન કુંડલ શોભિત, નાસાગ્રે મોતી.\nકોટેક ચન્દ્ર દિવાકર, સમ રાજત જ્યોતિ."
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                [
-    {
-        "id": 1,
-        "title": {
-            "en": "Shree Ganeshji",
-            "hn": "श्री गणेशजी",
-            "gu": "શ્રી ગણેશજી"
-        },
-        "image": "ganesh",
-        "items": [
-            {
-                "id": 11,
-                "type": {
-                    "en": "Arti",
-                    "hn": "आरती",
-                    "gu": "આરતી"
-                },
-                "subitems": [
-                    {
-                        "id": 1101,
-                        "title": {
-                            "en": "Shree Ganeshji Ki Aarti",
-                            "hn": "श्री गणेशजी की आरती",
-                            "gu": "શ્રી ગણેશજી ની આરતી"
-                        },
-                        "thumbnail": "jai_ganesh_deva_aarti.jpg",
-                        "trackURL": "jai_ganesh_deva_aarti.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\nMata Jaki Parvati, Pita Mahadeva.",
-                                        "hn": "जय गणेश, जय गणेश, जय गणेश देवा।\nमाता जाकी पार्वती, पिता महादेवा।",
-                                        "gu": "જય ગણેશ, જય ગણેશ, જય ગણેશ દેવા।\nમાતા જાકી પાર્વતી, પિતા મહાદેવા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Ekadanta Dayavanta, Char Bhujadhaari.\nMathe Par Tilak Sohe, Muse Ki Savari.",
-                                        "hn": "एकदन्त दयावन्त, चार भुजाधारी।\nमाथे पर तिलक सोहे, मूसे की सवारी।",
-                                        "gu": "એકદંત દયાવંત, ચાર ભુજાધારી।\nમાથે પર તિલક સુહે, મૂસેની સવારી।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Mathe Par Sindoor Sohe, Muse Ki Savari.",
-                                        "hn": "माथे पर सिन्दूर सोहे, मूसे की सवारी।",
-                                        "gu": "માથે પર સિંદૂર સુહે, મૂસેની સવારી।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Paan(Haar) Charhe, Phool Charhe, Aur Charhe Meva.\nLadduan Ka Bhog Lage, Sant Karein Seva.",
-                                        "hn": "पान(हार) चढ़े, फूल चढ़े, और चढ़े मेवा।\nलड्डुअन का भोग लगे, सन्त करें सेवा।",
-                                        "gu": "પાન(હાર) ચઢે, ફૂલ ચઢે, અને ચઢે મેવા।\nલાડડુનો ભોગ લાગી, સંત કરો સેવા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\nMata Jaki Parvati, Pita Mahadeva.",
-                                        "hn": "जय गणेश, जय गणेश, जय गणेश देवा।\nमाता जाकी पार्वती, पिता महादेवा।",
-                                        "gu": "જય ગણેશ, જય ગણેશ, જય ગણેશ દેવા।\nમાતા જાકી પાર્વતી, પિતા મહાદેવા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 5,
-                                    "title": {
-                                        "en": "Andhe Ko Aankh Deta, Korhina Ko Kaya.\nBanjhana Ko Putra Deta, Nirdhana Ko Maya.",
-                                        "hn": "अँधे को आँख देत, कोढ़िन को काया।\nबाँझन को पुत्र देत, निर्धनको माया।",
-                                        "gu": "અંધને આંખ આપે, કુંઠિનને કાયાં.\nબાંઝને પુત્ર આપે, નિર્ધનને માયા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 6,
-                                    "title": {
-                                        "en": "'Soora' Shyama Sharana Aaye, Saphal Kije Seva.\nMata Jaki Parvati, Pita Mahadeva.",
-                                        "hn": "'सूर' श्याम शरण आए, सफल कीजे सेवा।\nमाता जाकी पार्वती, पिता महादेवा।",
-                                        "gu": "'સૂર' શ્યામ શરણ આવે, સફળ કરો સેવા।\nમાતા જાકી પાર્વતી, પિતા મહાદેવા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 7,
-                                    "title": {
-                                        "en": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\nMata Jaki Parvati, Pita Mahadeva.",
-                                        "hn": "जय गणेश, जय गणेश, जय गणेश देवा।\nमाता जाकी पार्वती, पिता महादेवा।",
-                                        "gu": "જય ગણેશ, જય ગણેશ, જય ગણેશ દેવા।\nમાતા જાકી પાર્વતી, પિતા મહાદેવા।"
-                                    },
-                                    "repeatCount": 2
-                                }
-                            }
-                        ]
-                    }
-                ]
+        "subitems": [
+          {
+            "id": 1101,
+            "title": {
+              "en": "Shree Ganeshji Ki Aarti",
+              "hn": "श्री गणेशजी की आरती",
+              "gu": "શ્રી ગણેશજી ની આરતી"
             },
-            {
-                "id": 12,
-                "type": {
-                    "en": "Mantra",
-                    "hn": "मंत्र",
-                    "gu": "મંત્ર"
-                },
-                "subitems": [
-                    {
-                        "id": 1201,
-                        "title": {
-                            "en": "Ganesh Mantra",
-                            "hn": "गणेश मंत्र",
-                            "gu": "ગણેશ મંત્ર"
-                        },
-                        "thumbnail": "ganesh_mantra.jpg",
-                        "trackURL": "ganesh_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Gam Ganapataye Namaha\nOm Gam Ganapataye Namaha\nOm Gam Ganapataye Namaha\nOm Gam Ganapataye Namaha",
-                                        "hn": "ॐ गं गणपतये नमः\nॐ गं गणपतये नमः\nॐ गं गणपतये नमः\nॐ गं गणपतये नमः",
-                                        "gu": "ૐ ગં ગણપતયે નમઃ\nૐ ગં ગણપતયે નમઃ\nૐ ગં ગણપતયે નમઃ\nૐ ગં ગણપતયે નમઃ"
-                                    },
-                                    "repeatCount": 27
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": 1202,
-                        "title": {
-                            "en": "Vakratunda Mahakaya",
-                            "hn": "वक्रतुण्ड महाकाय",
-                            "gu": "વક્રતુંડ મહાકાય"
-                        },
-                        "thumbnail": "vakratunda_mantra.jpg",
-                        "trackURL": "vakratunda_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Vakratunda Mahakaya Suryakoti Samaprabha.\nNirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada.\nVakratunda Mahakaya Suryakoti Samaprabha.\nNirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada.\nVakratunda Mahakaya Suryakoti Samaprabha.\nNirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada.",
-                                        "hn": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्व-कार्येषु सर्वदा।\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्व-कार्येषु सर्वदा।\nवक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्व-कार्येषु सर्वदा।",
-                                        "gu": "વક્રતુંડ મહાકાય સૂર્યકોટિ સમપ્રભ।\nનિર્વિઘ્નં કુરુ મે દેવ સર્વ-કાર્યેષુ સર્વદા।\nવક્રતુંડ મહાકાય સૂર્યકોટિ સમપ્રભ।\nનિર્વિઘ્નં કુરુ મે દેવ સર્વ-કાર્યેષુ સર્વદા।\nવક્રતુંડ મહાકાય સૂર્યકોટિ સમપ્રભ।\nનિર્વિઘ્નં કુરુ મે દેવ સર્વ-કાર્યેષુ સર્વદા।"
-                                    },
-                                    "repeatCount": 11
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 13,
-                "type": {
-                    "en": "Bhajan",
-                    "hn": "भजन",
-                    "gu": "ભજન"
-                },
-                "subitems": [
-                    {
-                        "id": 1301,
-                        "title": {
-                            "en": "Ganpati Bappa Morya",
-                            "hn": "गणपति बप्पा मोर्या",
-                            "gu": "ગણપતિ બાપ્પા મોર્યા"
-                        },
-                        "thumbnail": "ganpati_bappa_morya.jpg",
-                        "trackURL": "ganpati_bappa_morya.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Ganpati Bappa Morya, Mangal Murti Morya.\nPudchya Varshi Lavkar Ya, Ganpati Bappa Morya.\nGanpati Bappa Morya, Mangal Murti Morya.\nPudchya Varshi Lavkar Ya, Ganpati Bappa Morya.\nGanpati Bappa Morya, Mangal Murti Morya.\nPudchya Varshi Lavkar Ya, Ganpati Bappa Morya.\nGanpati Bappa Morya, Mangal Murti Morya.\nPudchya Varshi Lavkar Ya, Ganpati Bappa Morya.",
-                                        "hn": "गणपति बप्पा मोर्या, मंगल मूर्ति मोर्या।\nपुढच्या वर्षी लवकर या, गणपति बप्पा मोर्या।\nगणपति बप्पा मोर्या, मंगल मूर्ति मोर्या।\nपुढच्या वर्षी लवकर या, गणपति बप्पा मोर्या।\nगणपति बप्पा मोर्या, मंगल मूर्ति मोर्या।\nपुढच्या वर्षी लवकर या, गणपति बप्पा मोर्या।\nगणपति बप्पा मोर्या, मंगल मूर्ति मोर्या।\nपुढच्या वर्षी लवकर या, गणपति बप्पा मोर्या।",
-                                        "gu": "ગણપતિ બાપ્પા મોર્યા, મંગળ મૂર્તિ મોર્યા।\nપુઢચ્યા વર્ષી લવકર યા, ગણપતિ બાપ્પા મોર્યા।\nગણપતિ બાપ્પા મોર્યા, મંગળ મૂર્તિ મોર્યા।\nપુઢચ્યા વર્ષી લવકર યા, ગણપતિ બાપ્પા મોર્યા।\nગણપતિ બાપ્પા મોર્યા, મંગળ મૂર્તિ મોર્યા।\nપુઢચ્યા વર્ષી લવકર યા, ગણપતિ બાપ્પા મોર્યા।\nગણપતિ બાપ્પા મોર્યા, મંગળ મૂર્તિ મોર્યા।\nપુઢચ્યા વર્ષી લવકર યા, ગણપતિ બાપ્પા મોર્યા।"
-                                    },
-                                    "repeatCount": 8
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 14,
-                "type": {
-                    "en": "Chalisa",
-                    "hn": "चालीसा",
-                    "gu": "ચાલીસા"
-                },
-                "subitems": [
-                    {
-                        "id": 1401,
-                        "title": {
-                            "en": "Shree Ganesh Chalisa",
-                            "hn": "श्री गणेश चालीसा",
-                            "gu": "શ્રી ગણેશ ચાલીસા"
-                        },
-                        "thumbnail": "ganesh_chalisa.jpg",
-                        "trackURL": "ganesh_chalisa.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Jai Ganesh Girija Suvan, Mangal Mul Sujan.\nKahat Ayodhya Das Tum, Dehu Abhaya Vradaan.",
-                                        "hn": "जय गणेश गिरिजा सुवन, मंगल मूल सुजान।\nकहत अयोध्या दास तुम, देहु अभय वरदान।",
-                                        "gu": "જય ગણેશ ગિરિજા સુવન, મંગળ મૂળ સુજાન।\nકહત અયોધ્યા દાસ તુમ, દેહુ અભય વરદાન।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Jai Jai Jai Ganpati Raaja.\nMangal Bharana Karnara Haaja.",
-                                        "hn": "जय जय जय गणपति राजा।\nमंगल भरण करण हारा जा।",
-                                        "gu": "જય જય જય ગણપતિ રાજા।\nમંગળ ભરણ કરણ હારા જા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Vakra Tunda Mahakaya, Koti Surya Samaprabha.\nNirvighnam Kuru Me Deva, Sarva Karyeshu Sarvada.",
-                                        "hn": "वक्र तुण्ड महाकाय, कोटि सूर्य समप्रभ।\nनिर्विघ्नं कुरु मे देव, सर्व कार्येषु सर्वदा।",
-                                        "gu": "વક્ર તુંડ મહાકાય, કોટિ સૂર્ય સમપ્રભ।\nનિર્વિઘ્નં કુરુ મે દેવ, સર્વ કાર્યેષુ સર્વદા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Ek Danta Dayavanta, Char Bhuja Dhaari.\nMathe Sindoor Sohe, Muse Ki Svari.",
-                                        "hn": "एक दंत दयावंत, चार भुजा धारी।\nमाथे सिंदूर सोहे, मूसे की सवारी।",
-                                        "gu": "એક દંત દયાવંત, ચાર ભુજા ધારી।\nમાથે સિંદૂર સુહે, મૂસેની સવારી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Andhan Ko Aankh Det, Kodhin Ko Kaya.\nBaanjhan Ko Putra Det, Nirdhana Ko Maya.",
-                                        "hn": "अंधन को आंख देत, कोढ़िन को काया।\nबांझन को पुत्र देत, निर्धन को माया।",
-                                        "gu": "અંધન ને આંખ આપે, કુઠીનને કાયા।\nબાંઝને પુત્ર આપે, નિર્ધનને માયા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 5,
-                                    "title": {
-                                        "en": "Suran Muni Jana Sevata, Trinayan Piya Keri.\nGirijaa Suvan Ganaatha, Shaadi Vighna Heri.",
-                                        "hn": "सुरन मुनि जन सेवत, त्रिनयन पिया केरी।\nगिरिजा सुवन गणाथ, शादी विघ्न हेरी।",
-                                        "gu": "સુરન મુનિ જન સેવત, ત્રિનયન પિયા કેરી।\nગિરિજા સુવન ગણાથ, શાદી વિઘ્ન હેરી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 6,
-                                    "title": {
-                                        "en": "Mother Parvati Ke Pyare, Shiva Ji Ke Raja.\nGaura Mukha Mastaka Tilaka, Trinetra Bala Raja.",
-                                        "hn": "माता पार्वती के प्यारे, शिव जी के राजा।\nगौर मुख मस्तक तिलक, त्रिनेत्र बाल राजा।",
-                                        "gu": "માતા પાર્વતી કે પ્યારે, શિવ જી કે રાજા।\nગૌર મુખ મસ્તક તિલક, ત્રિનેત્ર બાલ રાજા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 7,
-                                    "title": {
-                                        "en": "Riddhi Siddhi Ke Data, Var Deta Sada.\nRam Lakhan Raghubar Ki, Sheesh Pathati Kada.",
-                                        "hn": "रिद्धि सिद्धि के दाता, वर देता सदा।\nराम लखन रघुवर की, शीश पाती कदा।",
-                                        "gu": "રિદ્ધિ સિદ્ધિ કે દાતા, વર દેતા સદા।\nરામ લખન રઘુવર કી, શીશ પાતી કદા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 8,
-                                    "title": {
-                                        "en": "Mata Janki Ramchandra, Ke Bhi Priya Pyare.\nSir Par Karama Nivaasi, Karat Sada Ubhaare.",
-                                        "hn": "माता जानकी रामचंद्र, के भी प्रिय प्यारे।\nसिर पर करमा निवासी, करत सदा उबारे।",
-                                        "gu": "માતા જાનકી રામચંદ્ર, કે ભી પ્રિય પ્યારે।\nસિર પર કરમા નિવાસી, કરત સદા ઉબારે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 9,
-                                    "title": {
-                                        "en": "Santan Hrdaya Mein Basakar, Khushi Deta Sada.\nAyodhya Das Ki Binti, Karo Pura Sadaa.",
-                                        "hn": "संतन हृदय में बसकर, खुशी देता सदा।\nअयोध्या दास की बिंती, करो पूरा सदा।",
-                                        "gu": "સંતન હૃદય મેં બસકર, ખુશી દેતા સદા।\nઅયોધ્યા દાસ કી બિંતી, કરો પૂરા સદા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 10,
-                                    "title": {
-                                        "en": "Doha: Jo Yaha Paatha Karega, Ghanasyama Guna Gaan.\nRiddhi Siddhi Ghar Aayegi, Bhariye Dhana Dhanya Bhaan.",
-                                        "hn": "दोहा: जो यह पाठ करेगा, घनश्याम गुण गान।\nरिद्धि सिद्धि घर आयेगी, भरिये धन धान्य भान।",
-                                        "gu": "દોહા: જો આ પાઠ કરેગા, ઘનશ્યામ ગુણ ગાન।\nરિદ્ધિ સિદ્ધિ ઘર આવેગી, ભરિયે ધન ધાન્ય ભાન।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
+            "thumbnail": "jai_ganesh_deva_aarti.jpg",
+            "trackURL": "jai_ganesh_deva_aarti.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\nMata Jaki Parvati, Pita Mahadeva.",
+                    "hn": "जय गणेश, जय गणेश, जय गणेश देवा।\nमाता जाकी पार्वती, पिता महादेवा।",
+                    "gu": "જય ગણેશ, જય ગણેશ, જય ગણેશ દેવા।\nમાતા જાકી પાર્વતી, પિતા મહાદેવા।"
+                  },
+                  "repeatCount": 2
+                }
+              },
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 1,
+                  "title": {
+                    "en": "Ekadanta Dayavanta, Char Bhujadhaari.\nMathe Par Tilak Sohe, Muse Ki Savari.",
+                    "hn": "एकदन्त दयावन्त, चार भुजाधारी।\nमाथे पर तिलक सोहे, मूसे की सवारी।",
+                    "gu": "એકદંત દયાવંત, ચાર ભુજાધારી।\nમાથે પર તિલક સુહે, મૂસેની સવારી।"
+                  },
+                  "repeatCount": 2
+                }
+              }
+            ]
+          }
         ]
-    },
-    {
-        "id": 2,
-        "title": {
-            "en": "Jay Hanuman",
-            "hn": "जय हनुमान",
-            "gu": "જય હનુમાન"
+      },
+      {
+        "id": 12,
+        "type": {
+          "en": "Mantra",
+          "hn": "मंत्र",
+          "gu": "મંત્ર"
         },
-        "image": "hanuman",
-        "items": [
-            {
-                "id": 21,
-                "type": {
-                    "en": "Arti",
-                    "hn": "आरती",
-                    "gu": "આરતી"
-                },
-                "subitems": [
-                    {
-                        "id": 2101,
-                        "title": {
-                            "en": "Aarti Shri Hanumanji",
-                            "hn": "आरती श्री हनुमानजी",
-                            "gu": "આરતી શ્રી હનુમાનજી"
-                        },
-                        "thumbnail": "hanuman_arti.jpg",
-                        "trackURL": "hanuman_arti.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Aarti Kije Hanuman Lala Ki.\nDusht Dalan Ragunath Kala Ki",
-                                        "hn": "आरती कीजै हनुमान लला की।\nदुष्ट दलन रघुनाथ कला की॥",
-                                        "gu": "આરતી કીજૈ હનુમાન લલા કી।\nદુષ્ટ દલન રઘુનાથ કલા કી॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Jake Bal Se Girivar Kaanpe.\nRog Dosh Ja Ke Nikat Na Jhaanke",
-                                        "hn": "जाके बल से गिरिवर कांपे।\nरोग दोष जाके निकट न झांके॥",
-                                        "gu": "જાકે બલ થી ગિરિવર કંપે।\nરોગ દોષ જાકે નજીક ન ઝાંકે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Anjani Putra Maha Baldaaee.\nSantan Ke Prabhu Sada Sahai",
-                                        "hn": "अंजनि पुत्र महा बलदाई।\nसन्तन के प्रभु सदा सहाई॥",
-                                        "gu": "અંજની પુત્ર મહા બલદાઈ।\nસંતાનના પ્રભુ સદા સહાયી॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "De Beera Raghunath Pathaaye.\nLanka Jaari Siya Sudhi Laaye",
-                                        "hn": "दे बीरा रघुनाथ पठाए।\nलंका जारि सिया सुधि लाए॥",
-                                        "gu": "દે બીરા રઘુનાથ પાઠાયે।\nલંકા જારી સિયા સુધિ લાવે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Lanka So Kot Samundra-Si Khai.\nJaat Pavan Sut Baar Na Lai",
-                                        "hn": "लंका सो कोट समुद्र-सी खाई।\nजात पवनसुत बार न लाई॥",
-                                        "gu": "લંકા સો કોટ સમુદ્ર-સરી ખાઈ।\nજાત પવનસૂત વાર ન લાવે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Lanka Jaari Asur Sanhare.\nSiyaramji Ke Kaaj Sanvare",
-                                        "hn": "लंका जारि असुर संहारे।\nसियारामजी के काज सवारे॥",
-                                        "gu": "લંકા જારી અસુર સંહારે।\nસિયાનામજીના કાર્ય સવારેએ॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Lakshman Moorchhit Pade Sakaare.\nAani Sajeevan Pran Ubaare",
-                                        "hn": "लक्ष्मण मूर्छित पड़े सकारे।\nआनि संजीवन प्राण उबारे॥",
-                                        "gu": "લક્ષ્મણ મૂર્ચિત પડી શકારે।\nઆણી સંજીવન પ્રાણ ઉબારે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Paithi Pataal Tori Jam-kaare.\nAhiravan Ke Bhuja Ukhaare",
-                                        "hn": "पैठि पाताल तोरि जम-कारे।\nअहिरावण की भुजा उखारे॥",
-                                        "gu": "પૈઠી પાતાલ તોરી જામ-કારે।\nઅહિરાવણની ભુજાઓ ઉખારે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Baayen Bhuja Asur Dal Mare.\nDaahine Bhuja Santjan Tare",
-                                        "hn": "बाएं भुजा असुरदल मारे।\nदाहिने भुजा संतजन तारे॥",
-                                        "gu": "બાયાં ભુજાથી અસુરદલ મારે।\nદાહિનાં ભુજાથી સંતજન તારે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Sur Nar Muni Aarti Utare.\nJai Jai Jai Hanuman Uchaare",
-                                        "hn": "सुर नर मुनि आरती उतारें।\nजय जय जय हनुमान उचारें॥",
-                                        "gu": "સુર નર મુની આરતી ઉતારેઓ.\nજય જય જય હનુમાન ઉચારે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Kanchan Thaar Kapoor Lau Chhaai.\nAarti Karat Anjana Maai",
-                                        "hn": "कंचन थार कपूर लौ छाई।\nआरती करत अंजना माई॥",
-                                        "gu": "કાંચન થાર કપૂર લાઉ છાઈ।\nઆરતી કરતાં અંજના માઈ॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Jo Hanumanji Ki Aarti Gaave.\nBasi Baikunth Param Pad Pave",
-                                        "hn": "जो हनुमानजी की आरती गावे।\nबसि बैकुण्ठ परम पद पावे॥",
-                                        "gu": "જો હનુમાનજીની આરતી ગાયે।\nબસિ વૈકુંઠ પરમ પદ પાવે॥"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
+        "subitems": [
+          {
+            "id": 1201,
+            "title": {
+              "en": "Ganesh Mantra",
+              "hn": "गणेश मंत्र",
+              "gu": "ગણેશ મંત્ર"
             },
-            {
-                "id": 22,
-                "type": {
-                    "en": "Chalisa",
-                    "hn": "चालीसा",
-                    "gu": "ચાલીસા"
-                },
-                "subitems": [
-                    {
-                        "id": 2201,
-                        "title": {
-                            "en": "Hanuman Chalisa",
-                            "hn": "हनुमान चालीसा",
-                            "gu": "હનુમાન ચાલીસા"
-                        },
-                        "thumbnail": "hanuman_chalisa.jpg",
-                        "trackURL": "hanuman_chalisa.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Shri Guru Charan Saroj Raj, Nij Man Mukur Sudhari.\nBarnau Raghuvar Bimal Jasu, Jo Dayaku Phal Chari.",
-                                        "hn": "श्रीगुरु चरन सरोज रज, निज मन मुकुर सुधारि।\nबरनउं रघुवर बिमल जसु, जो दायकु फल चारि।",
-                                        "gu": "શ્રીગુરુ ચરણ સરોજ રજ, નિજ મન મુકુર સુધારિ।\nબરનઉં રઘુવર બિમલ જસુ, જો દાયકુ ફળ ચારિ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Buddhi Heen Tanu Janike, Sumirau Pavan Kumar.\nBal Buddhi Vidya Dehu Mohi, Harahu Kalesh Vikar.",
-                                        "hn": "बुद्धिहीन तनु जानिके, सुमिरौं पवन कुमार।\nबल बुद्धि बिद्या देहु मोहि, हरहु कलेस बिकार।",
-                                        "gu": "બુદ્ધિહીન તનુ જાનિકે, સુમિરૌં પવન કુમાર।\nબલ બુદ્ધિ વિદ્યા દેહુ મોહિ, હરહુ કલેશ વિકાર।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Jai Hanuman Gyan Gun Sagar.\nJai Kapees Tihun Lok Ujagar.",
-                                        "hn": "जय हनुमान ज्ञान गुण सागर।\nजय कपीस तिहुं लोक उजागर।",
-                                        "gu": "જય હનુમાન જ્ઞાન ગુણ સાગર।\nજય કપીસ તિહું લોક ઉજાગર।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Ram Doot Atulit Bal Dhama.\nAnjani Putra Pavan Sut Nama.",
-                                        "hn": "राम दूत अतुलित बल धामा।\nअंजनि पुत्र पवन सुत नामा।",
-                                        "gu": "રામ દૂત અતુલિત બલ ધામા।\nઅંજની પુત્ર પવન સુત નામા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Mahabeer Bikram Bajrangi.\nKumati Nivar Sumati Ke Sangi.",
-                                        "hn": "महाबीर बिक्रम बजरंगी।\nकुमति निवार सुमति के संगी।",
-                                        "gu": "મહાબીર વિક્રમ બજરંગી।\nકુમતિ નિવાર સુમતિ કે સંગી।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 5,
-                                    "title": {
-                                        "en": "Kanchan Baran Biraaj Subesa.\nKanan Kundal Kunchit Kesa.",
-                                        "hn": "कंचन बरन बिराज सुबेसा।\nकानन कुंडल कुंचित केसा।",
-                                        "gu": "કંચન વરણ વિરાજ સુવેશા।\nકાનન કુંડલ કુંચિત કેશા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 6,
-                                    "title": {
-                                        "en": "Hath Bajra Aur Dhwaja Biraje.\nKandhe Moonj Janeu Saaje.",
-                                        "hn": "हाथ बज्र और ध्वजा बिराजे।\nकांधे मूंज जनेऊ साजे।",
-                                        "gu": "હાથ બજ્ર અને ધ્વજા વિરાજે।\nકાંધે મૂંજ જનેઉ સાજે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 7,
-                                    "title": {
-                                        "en": "Sankar Suvan Kesari Nandan.\nTej Pratap Maha Jag Bandan.",
-                                        "hn": "शंकर सुवन केसरी नंदन।\nतेज प्रताप महा जग बंदन।",
-                                        "gu": "શંકર સુવન કેસરી નંદન।\nતેજ પ્રતાપ મહા જગ બંદન।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 8,
-                                    "title": {
-                                        "en": "Vidyavan Guni Ati Chatur.\nRam Kaj Karibe Ko Atur.",
-                                        "hn": "विद्यावान गुनी अति चतुर।\nराम काज करिबे को आतुर।",
-                                        "gu": "વિદ્યાવાન ગુણી અતિ ચતુર।\nરામ કાજ કરિબે કો આતુર।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 9,
-                                    "title": {
-                                        "en": "Prabhu Charitra Sunibe Ko Rasiya.\nRam Lakhan Sita Man Basiya.",
-                                        "hn": "प्रभु चरित्र सुनिबे को रसिया।\nराम लखन सीता मन बसिया।",
-                                        "gu": "પ્રભુ ચરિત્ર સુનિબે કો રસિયા।\nરામ લખન સીતા મન બસિયા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 10,
-                                    "title": {
-                                        "en": "Sukshma Roop Dhari Siyahi Dikhawa.\nBikat Roop Dhari Lank Jarawa.",
-                                        "hn": "सूक्ष्म रूप धरि सियहि दिखावा।\nबिकट रूप धरि लंक जरावा।",
-                                        "gu": "સૂક્ષ્મ રૂપ ધરિ સીયહિ દિખાવા।\nવિકટ રૂપ ધરિ લંક જરાવા।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
+            "thumbnail": "ganesh_mantra.jpg",
+            "trackURL": "ganesh_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Gam Ganapataye Namaha",
+                    "hn": "ॐ गं गणपतये नमः",
+                    "gu": "ૐ ગં ગણપતયે નમઃ"
+                  },
+                  "repeatCount": 108
+                }
+              }
+            ]
+          },
+          {
+            "id": 1202,
+            "title": {
+              "en": "Vakratunda Mahakaya",
+              "hn": "वक्रतुण्ड महाकाय",
+              "gu": "વક્રતુંડ મહાકાય"
             },
-            {
-                "id": 23,
-                "type": {
-                    "en": "Mantra",
-                    "hn": "मंत्र",
-                    "gu": "મંત્ર"
-                },
-                "subitems": [
-                    {
-                        "id": 2301,
-                        "title": {
-                            "en": "Hanuman Mantra",
-                            "hn": "हनुमान मंत्र",
-                            "gu": "હનુમાન મંત્ર"
-                        },
-                        "thumbnail": "hanuman_mantra.jpg",
-                        "trackURL": "hanuman_mantra.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Om Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha\nOm Hanumate Namaha",
-                                        "hn": "ॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः\nॐ हनुमते नमः",
-                                        "gu": "ૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ\nૐ હનુમતે નમઃ"
-                                    },
-                                    "repeatCount": 108
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": 2302,
-                        "title": {
-                            "en": "Bajrang Baan",
-                            "hn": "बजरंग बाण",
-                            "gu": "બજરંગ બાણ"
-                        },
-                        "thumbnail": "bajrang_baan.jpg",
-                        "trackURL": "bajrang_baan.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Nirbhay Hoi Nipat Chale, Hriday Dhar Kar Ek.\nBajrang Baan Viraje Ur, Bharose Ram Vivek.",
-                                        "hn": "निर्भय होइ निपत चले, हृदय धार कर एक।\nबजरंग बाण विराजे उर, भरोसे राम विवेक।",
-                                        "gu": "નિર્ભય હોઇ નિપત ચલે, હૃદય ધાર કર એક।\nબજરંગ બાણ વિરાજે ઉર, ભરોસે રામ વિવેક।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 1,
-                                    "title": {
-                                        "en": "Ram Duarey Par Aaun, Ghushaun Kehi Vidhi.\nNij Dosh Gun Kathaun, Sahidashi Asidhi.",
-                                        "hn": "राम द्वारे पर आउं, घुसाउं केहि विधि।\nनिज दोष गुन कथाउं, सहि दाशी असिधि।",
-                                        "gu": "રામ દ્વારે પર આઉં, ઘુસાઉં કેહિ વિધિ।\nનિજ દોષ ગુણ કથાઉં, સહિ દાશી અસિધિ।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 2,
-                                    "title": {
-                                        "en": "Sumirow Pavan Kumar Khali, Bhajat Harash Ur Aave.\nMangal Murti Raghunath Gati, Kaal Bhut Ghar Jaave.",
-                                        "hn": "सुमिरौं पवन कुमार खली, भजत हरष उर आवे।\nमंगल मूर्ति रघुनाथ गति, काल भूत घर जावे।",
-                                        "gu": "સુમિરૌં પવન કુમાર ખલી, ભજત હરષ ઉર આવે।\nમંગળ મૂર્તિ રઘુનાથ ગતિ, કાલ ભૂત ઘર જાવે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 3,
-                                    "title": {
-                                        "en": "Bhotan Ki Sena Sainya Lekar, Bhoton Ke Ghar Aawe.\nKotik Yaksha, Kinnar Gandharva, Sab Milkar Gun Gawe.",
-                                        "hn": "भूतन की सेना सैन्य लेकर, भूतों के घर आवे।\nकोटिक यक्ष, किन्नर गंधर्व, सब मिलकर गुन गावे।",
-                                        "gu": "ભૂતન કી સેના સૈન્ય લેકર, ભૂતો કે ઘર આવે।\nકોટિક યક્ષ, કિન્નર ગંધર્વ, સબ મિલકર ગુણ ગાવે।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            },
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 4,
-                                    "title": {
-                                        "en": "Jab Udak Ghor Andhakar, Kaal Kraal Kal Naar.\nSumirow Anjani Kumar, Tanik Aar Paar.",
-                                        "hn": "जब उदक घोर अंधकार, काल क्राल कल नार।\nसुमिरौं अंजनी कुमार, तनिक आर पार।",
-                                        "gu": "જબ ઉદક ઘોર અંધકાર, કાલ ક્રાલ કલ નાર।\nસુમિરૌં અંજની કુમાર, તનિક આર પાર।"
-                                    },
-                                    "repeatCount": 1
-                                }
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "id": 24,
-                "type": {
-                    "en": "Bhajan",
-                    "hn": "भजन",
-                    "gu": "ભજન"
-                },
-                "subitems": [
-                    {
-                        "id": 2401,
-                        "title": {
-                            "en": "Shree Ram Jai Ram",
-                            "hn": "श्री राम जय राम",
-                            "gu": "શ્રી રામ જય રામ"
-                        },
-                        "thumbnail": "shree_ram_jai_ram.jpg",
-                        "trackURL": "shree_ram_jai_ram.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "nameVisible": false,
-                                    "index": 0,
-                                    "title": {
-                                        "en": "Shree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.",
-                                        "hn": "श्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।",
-                                        "gu": "શ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।"
-                                    },
-                                    "repeatCount": 8
-                                }
-                            }
-                        ]
-                    }
-                ]
-            }
+            "thumbnail": "vakratunda_mantra.jpg",
+            "trackURL": "vakratunda_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Vakratunda Mahakaya Suryakoti Samaprabha.\nNirvighnam Kuru Me Deva Sarva-Kaaryeshu Sarvada.",
+                    "hn": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्व-कार्येषु सर्वदा।",
+                    "gu": "વક્રતુંડ મહાકાય સૂર્યકોટિ સમપ્રભ।\nનિર્વિઘ્નં કુરુ મે દેવ સર્વ-કાર્યેષુ સર્વદા।"
+                  },
+                  "repeatCount": 3
+                }
+              }
+            ]
+          }
         ]
-    },
-    {
-        "id": 3,
-        "title": {
-            "en": "Mahadev",
-            "hn": "महादेव",
-            "gu": "મહાદેવ"
+      },
+      {
+        "id": 13,
+        "type": {
+          "en": "Bhajan",
+          "hn": "भजन",
+          "gu": "ભજન"
         },
-        "image": "mahadev",
-        "items": [
-            {
-                "id": 31,
-                "type": {
-                    "en": "Arti",
-                    "hn": "आरती",
-                    "gu": "આરતી"
-                },
-                "subitems": [
-                    {
-                        "id": 3101,
-                        "title": {
-                            "en": "Shiv Ji Ki Aarti",
-                            "hn": "शिवजी की आरती",
-                            "gu": "શિવજી ની આરતી"
-                        },
-                        "thumbnail": "shiva_arti.jpg",
-                        "trackURL": "shiva_arti.mp3",
-                        "lyrics": [
-                            {
-                                "slok": {
-                                    "title": {
-                                        "en": "Om Jai Shiv Omkara, Swami Jai Shiv Omkara.\nBrahma, Vishnu, Sadashiv, Ardhangi Dhara",
-                                        "hn": "ॐ जय शिव ओंकारा,स्वामी जय शिव ओंकारा।\nब्रह्मा, विष्णु, सदाशिव,अर्द्धांगी धारा",
-                                        "gu": "ૐ જય શિવ ઓંકારા, સ્વામી જય શિવ ઓંકારા.\nબ્રહ્મા, વિષ્ણુ, સદાશિવ, અર્દ
+        "subitems": [
+          {
+            "id": 1301,
+            "title": {
+              "en": "Ganpati Bappa Morya",
+              "hn": "गणपति बप्पा मोर्या",
+              "gu": "ગણપતિ બાપ્પા મોર્યા"
+            },
+            "thumbnail": "ganpati_bappa_morya.jpg",
+            "trackURL": "ganpati_bappa_morya.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Ganpati Bappa Morya, Mangal Murti Morya.\nPudchya Varshi Lavkar Ya, Ganpati Bappa Morya.",
+                    "hn": "गणपति बप्पा मोर्या, मंगल मूर्ति मोर्या।\nपुढच्या वर्षी लवकर या, गणपति बप्पा मोर्या।",
+                    "gu": "ગણપતિ બાપ્પા મોર્યા, મંગળ મૂર્તિ મોર્યા।\nપુઢચ્યા વર્ષી લવકર યા, ગણપતિ બાપ્પા મોર્યા।"
+                  },
+                  "repeatCount": 4
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "type": {
+          "en": "Chalisa",
+          "hn": "चालीसा",
+          "gu": "ચાલીસા"
+        },
+        "subitems": [
+          {
+            "id": 1401,
+            "title": {
+              "en": "Shree Ganesh Chalisa",
+              "hn": "श्री गणेश चालीसा",
+              "gu": "શ્રી ગણેશ ચાલીસા"
+            },
+            "thumbnail": "ganesh_chalisa.jpg",
+            "trackURL": "ganesh_chalisa.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Jai Ganesh Girija Suvan, Mangal Mul Sujan.\nKahat Ayodhya Das Tum, Dehu Abhaya Vradaan.",
+                    "hn": "जय गणेश गिरिजा सुवन, मंगल मूल सुजान।\nकहत अयोध्या दास तुम, देहु अभय वरदान।",
+                    "gu": "જય ગણેશ ગિરિજા સુવન, મંગળ મૂળ સુજાન।\nકહત અયોધ્યા દાસ તુમ, દેહુ અભય વરદાન।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Jay Hanuman",
+      "hn": "जय हनुमान",
+      "gu": "જય હનુમાન"
+    },
+    "image": "hanuman",
+    "items": [
+      {
+        "id": 21,
+        "type": {
+          "en": "Arti",
+          "hn": "आरती",
+          "gu": "આરતી"
+        },
+        "subitems": [
+          {
+            "id": 2101,
+            "title": {
+              "en": "Aarti Shri Hanumanji",
+              "hn": "आरती श्री हनुमानजी",
+              "gu": "આરતી શ્રી હનુમાનજી"
+            },
+            "thumbnail": "hanuman_arti.jpg",
+            "trackURL": "hanuman_arti.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "title": {
+                    "en": "Aarti Kije Hanuman Lala Ki.\nDusht Dalan Ragunath Kala Ki",
+                    "hn": "आरती कीजै हनुमान लला की।\nदुष्ट दलन रघुनाथ कला की॥",
+                    "gu": "આરતી કીજૈ હનુમાન લલા કી।\nદુષ્ટ દલન રઘુનાથ કલા કી॥"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "type": {
+          "en": "Chalisa",
+          "hn": "चालीसा",
+          "gu": "ચાલીસા"
+        },
+        "subitems": [
+          {
+            "id": 2201,
+            "title": {
+              "en": "Hanuman Chalisa",
+              "hn": "हनुमान चालीसा",
+              "gu": "હનુમાન ચાલીસા"
+            },
+            "thumbnail": "hanuman_chalisa.jpg",
+            "trackURL": "hanuman_chalisa.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Shri Guru Charan Saroj Raj, Nij Man Mukur Sudhari.\nBarnau Raghuvar Bimal Jasu, Jo Dayaku Phal Chari.",
+                    "hn": "श्रीगुरु चरन सरोज रज, निज मन मुकुर सुधारि।\nबरनउं रघुवर बिमल जसु, जो दायकु फल चारि।",
+                    "gu": "શ્રીગુરુ ચરણ સરોજ રજ, નિજ મન મુકુર સુધારિ।\nબરનઉં રઘુવર બિમલ જસુ, જો દાયકુ ફળ ચારિ।"
+                  },
+                  "repeatCount": 1
+                }
+              },
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 1,
+                  "title": {
+                    "en": "Buddhi Heen Tanu Janike, Sumirau Pavan Kumar.\nBal Buddhi Vidya Dehu Mohi, Harahu Kalesh Vikar.",
+                    "hn": "बुद्धिहीन तनु जानिके, सुमिरौं पवन कुमार।\nबल बुद्धि बिद्या देहु मोहि, हरहु कलेस बिकार।",
+                    "gu": "બુદ્ધિહીન તનુ જાનિકે, સુમિરૌં પવન કુમાર।\nબલ બુદ્ધિ વિદ્યા દેહુ મોહિ, હરહુ કલેશ વિકાર।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "type": {
+          "en": "Mantra",
+          "hn": "मंत्र",
+          "gu": "મંત્ર"
+        },
+        "subitems": [
+          {
+            "id": 2301,
+            "title": {
+              "en": "Hanuman Mantra",
+              "hn": "हनुमान मंत्र",
+              "gu": "હનુમાન મંત્ર"
+            },
+            "thumbnail": "hanuman_mantra.jpg",
+            "trackURL": "hanuman_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Hanumate Namaha",
+                    "hn": "ॐ हनुमते नमः",
+                    "gu": "ૐ હનુમતે નમઃ"
+                  },
+                  "repeatCount": 108
+                }
+              }
+            ]
+          },
+          {
+            "id": 2302,
+            "title": {
+              "en": "Bajrang Baan",
+              "hn": "बजरंग बाण",
+              "gu": "બજરંગ બાણ"
+            },
+            "thumbnail": "bajrang_baan.jpg",
+            "trackURL": "bajrang_baan.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Nirbhay Hoi Nipat Chale, Hriday Dhar Kar Ek.\nBajrang Baan Viraje Ur, Bharose Ram Vivek.",
+                    "hn": "निर्भय होइ निपत चले, हृदय धार कर एक।\nबजरंग बाण विराजे उर, भरोसे राम विवेक।",
+                    "gu": "નિર્ભય હોઇ નિપત ચલે, હૃદય ધાર કર એક।\nબજરંગ બાણ વિરાજે ઉર, ભરોસે રામ વિવેક।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "type": {
+          "en": "Bhajan",
+          "hn": "भजन",
+          "gu": "ભજન"
+        },
+        "subitems": [
+          {
+            "id": 2401,
+            "title": {
+              "en": "Shree Ram Jai Ram",
+              "hn": "श्री राम जय राम",
+              "gu": "શ્રી રામ જય રામ"
+            },
+            "thumbnail": "shree_ram_jai_ram.jpg",
+            "trackURL": "shree_ram_jai_ram.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Shree Ram Jai Ram Jai Jai Ram.\nShree Ram Jai Ram Jai Jai Ram.",
+                    "hn": "श्री राम जय राम जय जय राम।\nश्री राम जय राम जय जय राम।",
+                    "gu": "શ્રી રામ જય રામ જય જય રામ।\nશ્રી રામ જય રામ જય જય રામ।"
+                  },
+                  "repeatCount": 8
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Mahadev",
+      "hn": "महादेव",
+      "gu": "મહાદેવ"
+    },
+    "image": "mahadev",
+    "items": [
+      {
+        "id": 31,
+        "type": {
+          "en": "Arti",
+          "hn": "आरती",
+          "gu": "આરતી"
+        },
+        "subitems": [
+          {
+            "id": 3101,
+            "title": {
+              "en": "Shiv Ji Ki Aarti",
+              "hn": "शिवजी की आरती",
+              "gu": "શિવજી ની આરતી"
+            },
+            "thumbnail": "shiva_arti.jpg",
+            "trackURL": "shiva_arti.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "title": {
+                    "en": "Om Jai Shiv Omkara, Swami Jai Shiv Omkara.\nBrahma, Vishnu, Sadashiv, Ardhangi Dhara",
+                    "hn": "ॐ जय शिव ओंकारा,स्वामी जय शिव ओंकारा।\nब्रह्मा, विष्णु, सदाशिव,अर्द्धांगी धारा",
+                    "gu": "ૐ જય શિવ ઓંકારા, સ્વામી જય શિવ ઓંકારા.\nબ્રહ્મા, વિષ્ણુ, સદાશિવ, અર્દાંગી ધારા"
+                  },
+                  "repeatCount": 2
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "type": {
+          "en": "Mantra",
+          "hn": "मंत्र",
+          "gu": "મંત્ર"
+        },
+        "subitems": [
+          {
+            "id": 3201,
+            "title": {
+              "en": "Om Namah Shivaya",
+              "hn": "ॐ नमः शिवाय",
+              "gu": "ૐ નમઃ શિવાય"
+            },
+            "thumbnail": "om_namah_shivaya.jpg",
+            "trackURL": "om_namah_shivaya.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Namah Shivaya",
+                    "hn": "ॐ नमः शिवाय",
+                    "gu": "ૐ નમઃ શિવાય"
+                  },
+                  "repeatCount": 108
+                }
+              }
+            ]
+          },
+          {
+            "id": 3202,
+            "title": {
+              "en": "Mahamrityunjaya Mantra",
+              "hn": "महामृत्युंजय मंत्र",
+              "gu": "મહામૃત્યુંજય મંત્ર"
+            },
+            "thumbnail": "mahamrityunjaya_mantra.jpg",
+            "trackURL": "mahamrityunjaya_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam.\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat.",
+                    "hn": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्।",
+                    "gu": "ૐ ત્ર્યમ્બકં યજામહે સુગન્ધિં પુષ્ટિવર્ધનમ્।\nઉર્વારુકમિવ બન્ધનાન્ મૃત્યોર્મુક્ષીય મામૃતાત્।"
+                  },
+                  "repeatCount": 11
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "type": {
+          "en": "Bhajan",
+          "hn": "भजन",
+          "gu": "ભજન"
+        },
+        "subitems": [
+          {
+            "id": 3301,
+            "title": {
+              "en": "Har Har Mahadev",
+              "hn": "हर हर महादेव",
+              "gu": "હર હર મહાદેવ"
+            },
+            "thumbnail": "har_har_mahadev.jpg",
+            "trackURL": "har_har_mahadev.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Har Har Mahadev, Har Har Mahadev.\nShambhu Shankar Har Har Mahadev.",
+                    "hn": "हर हर महादेव, हर हर महादेव।\nशम्भु शंकर हर हर महादेव।",
+                    "gu": "હર હર મહાદેવ, હર હર મહાદેવ।\nશંભુ શંકર હર હર મહાદેવ।"
+                  },
+                  "repeatCount": 4
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "type": {
+          "en": "Stotram",
+          "hn": "स्तोत्रम्",
+          "gu": "સ્તોત્રમ્"
+        },
+        "subitems": [
+          {
+            "id": 3401,
+            "title": {
+              "en": "Shiva Tandava Stotram",
+              "hn": "शिव तांडव स्तोत्रम्",
+              "gu": "શિવ તાંડવ સ્તોત્રમ્"
+            },
+            "thumbnail": "shiva_tandava_stotram.jpg",
+            "trackURL": "shiva_tandava_stotram.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Jatatavigalajjala Pravahapavitasthale.\nGaleavalambya Lambitam Bhujangatungamalikam.",
+                    "hn": "जटाटवीगलज्जल प्रवाहपावितस्थले।\nगलेऽवलम्ब्य लम्बितं भुजंगतुंगमालिकम्।",
+                    "gu": "જટાટવીગલજ્જલ પ્રવાહપાવિતસ્થલે।\nગલેઽવલંબ્ય લંબિતં ભુજંગતુંગમાલિકમ્।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Amba Maa",
+      "hn": "अंबा माँ",
+      "gu": "અંબા માં"
+    },
+    "image": "ambema",
+    "items": [
+      {
+        "id": 41,
+        "type": {
+          "en": "Arti",
+          "hn": "आरती",
+          "gu": "આરતી"
+        },
+        "subitems": [
+          {
+            "id": 4101,
+            "title": {
+              "en": "Aarti Shri AmbaJi",
+              "hn": "आरती श्री अम्बाजी",
+              "gu": "આરતી શ્રી અંબાજી"
+            },
+            "thumbnail": "ambema_arti.jpg",
+            "trackURL": "ambema_arti.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "title": {
+                    "en": "Jai Ambe Gauri, Maiya Jai Shyama Gauri.\nTumako Nishidina Dhyawata, Hari Brahma Shivari.",
+                    "hn": "जय अम्बे गौरी, मैया जय श्यामा गौरी।\nतुमको निशिदिन ध्यावत, हरि ब्रह्मा शिवरी॥",
+                    "gu": "જય અમ્બે ગૌરી, માઈયા જય શ્યામા ગૌરી.\nતમને નિશિદિન ધ્યાવતા, હરિ બ્રહ્મા શિવરી."
+                  },
+                  "repeatCount": 2
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "type": {
+          "en": "Chalisa",
+          "hn": "चालीसा",
+          "gu": "ચાલીસા"
+        },
+        "subitems": [
+          {
+            "id": 4201,
+            "title": {
+              "en": "Durga Chalisa",
+              "hn": "दुर्गा चालीसा",
+              "gu": "દુર્ગા ચાલીસા"
+            },
+            "thumbnail": "durga_chalisa.jpg",
+            "trackURL": "durga_chalisa.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Namo Namo Durge Sukh Karni, Namo Namo Ambe Dukh Harni.\nNirankar Hai Jyoti Tumhari, Tihun Lok Mein Goon Ujiyari.",
+                    "hn": "नमो नमो दुर्गे सुख करनी, नमो नमो अम्बे दुख हरनी।\nनिरंकार है ज्योति तुम्हारी, तिहुं लोक में गूंज उजियारी।",
+                    "gu": "નમો નમો દુર્ગે સુખ કરની, નમો નમો અંબે દુઃખ હરની।\nનિરંકાર છે જ્યોતિ તુમ્હારી, તિહું લોક મેં ગૂંજ ઉજિયારી।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "type": {
+          "en": "Mantra",
+          "hn": "मंत्र",
+          "gu": "મંત્ર"
+        },
+        "subitems": [
+          {
+            "id": 4301,
+            "title": {
+              "en": "Durga Mantra",
+              "hn": "दुर्गा मंत्र",
+              "gu": "દુર્ગા મંત્ર"
+            },
+            "thumbnail": "durga_mantra.jpg",
+            "trackURL": "durga_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Dum Durgayei Namaha",
+                    "hn": "ॐ दुं दुर्गायै नमः",
+                    "gu": "ૐ દું દુર્ગાયૈ નમઃ"
+                  },
+                  "repeatCount": 108
+                }
+              }
+            ]
+          },
+          {
+            "id": 4302,
+            "title": {
+              "en": "Navarna Mantra",
+              "hn": "नवार्ण मंत्र",
+              "gu": "નવાર્ણ મંત્ર"
+            },
+            "thumbnail": "navarna_mantra.jpg",
+            "trackURL": "navarna_mantra.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Om Aim Hreem Kleem Chamundayei Vichche",
+                    "hn": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+                    "gu": "ૐ ऐં હ્રીં ક્લીં ચામુંડાયૈ વિચ્ચે"
+                  },
+                  "repeatCount": 108
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "type": {
+          "en": "Bhajan",
+          "hn": "भजन",
+          "gu": "ભજન"
+        },
+        "subitems": [
+          {
+            "id": 4401,
+            "title": {
+              "en": "Jai Mata Di",
+              "hn": "जय माता दी",
+              "gu": "જય માતા દી"
+            },
+            "thumbnail": "jai_mata_di.jpg",
+            "trackURL": "jai_mata_di.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Jai Mata Di, Jai Mata Di.\nMaiya Sherawali Ki Jai Mata Di.",
+                    "hn": "जय माता दी, जय माता दी।\nमैया शेरावाली की जय माता दी।",
+                    "gu": "જય માતા દી, જય માતા દી।\nમૈયા શેરાવાલી કી જય માતા દી।"
+                  },
+                  "repeatCount": 8
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "type": {
+          "en": "Stotram",
+          "hn": "स्तोत्रम्",
+          "gu": "સ્તોત્રમ્"
+        },
+        "subitems": [
+          {
+            "id": 4501,
+            "title": {
+              "en": "Durga Saptashati",
+              "hn": "दुर्गा सप्तशती",
+              "gu": "દુર્ગા સપ્તશતી"
+            },
+            "thumbnail": "durga_saptashati.jpg",
+            "trackURL": "durga_saptashati.mp3",
+            "lyrics": [
+              {
+                "slok": {
+                  "nameVisible": false,
+                  "index": 0,
+                  "title": {
+                    "en": "Sarva Mangala Mangalye Shive Sarvaartha Sadhike.\nSharanye Tryambake Gauri Narayani Namostute.",
+                    "hn": "सर्व मंगल मांगल्ये शिवे सर्वार्थ साधिके।\nशरण्ये त्र्यम्बके गौरि नारायणी नमोऽस्तुते।",
+                    "gu": "સર્વ મંગલ માંગલ્યે શિવે સર્વાર્થ સાધિકે।\nશરણ્યે ત્ર્યંબકે ગૌરિ નારાયણી નમોઽસ્તુતે।"
+                  },
+                  "repeatCount": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
